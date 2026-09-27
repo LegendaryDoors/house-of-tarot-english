@@ -1,0 +1,902 @@
+[
+ {
+  "id": 696,
+  "context": "Spread position label (Nana), item 1",
+  "jp": "あの人のかこ",
+  "en": "Their past"
+ },
+ {
+  "id": 697,
+  "context": "Spread position label (Nana), item 2",
+  "jp": " あの人の今",
+  "en": "Their present"
+ },
+ {
+  "id": 698,
+  "context": "Spread position label (Nana), item 3",
+  "jp": "ちかいみらい",
+  "en": "Near future"
+ },
+ {
+  "id": 699,
+  "context": "Spread position label (Nana), item 4",
+  "jp": " アドバイス",
+  "en": "Advice"
+ },
+ {
+  "id": 700,
+  "context": "Spread position label (Nana), item 5",
+  "jp": " まわりの人",
+  "en": "Your circle"
+ },
+ {
+  "id": 701,
+  "context": "Spread position label (Nana), item 6",
+  "jp": "こいのグッズ",
+  "en": "Love charms"
+ },
+ {
+  "id": 702,
+  "context": "Spread position label (Nana), item 7",
+  "jp": "あいのゆくえ",
+  "en": "Love's path"
+ },
+ {
+  "id": 703,
+  "context": "Spread position label (Nana), item 8",
+  "jp": " おしまい",
+  "en": "Finish"
+ },
+ {
+  "id": 704,
+  "context": "Spread position label (Regina), item 1",
+  "jp": "あなたのかこ",
+  "en": "Your past"
+ },
+ {
+  "id": 705,
+  "context": "Spread position label (Regina), item 2",
+  "jp": " げんざい",
+  "en": "The present"
+ },
+ {
+  "id": 706,
+  "context": "Spread position label (Regina), item 3",
+  "jp": "ちかいみらい",
+  "en": "Near future"
+ },
+ {
+  "id": 707,
+  "context": "Spread position label (Regina), item 4",
+  "jp": "アドバイス",
+  "en": "Advice"
+ },
+ {
+  "id": 708,
+  "context": "Spread position label (Regina), item 5",
+  "jp": "じょうきょう",
+  "en": "Situation"
+ },
+ {
+  "id": 709,
+  "context": "Spread position label (Regina), item 6",
+  "jp": " おしごと",
+  "en": "Ideal job"
+ },
+ {
+  "id": 710,
+  "context": "Spread position label (Regina), item 7",
+  "jp": " はんだん",
+  "en": "Verdict"
+ },
+ {
+  "id": 711,
+  "context": "Spread position label (Regina), item 8",
+  "jp": " おわり",
+  "en": "Finish"
+ },
+ {
+  "id": 712,
+  "context": "Spread position label (Rudo), item 1",
+  "jp": "あなたのかこ",
+  "en": "Your past"
+ },
+ {
+  "id": 713,
+  "context": "Spread position label (Rudo), item 2",
+  "jp": " げんざい",
+  "en": "The present"
+ },
+ {
+  "id": 714,
+  "context": "Spread position label (Rudo), item 3",
+  "jp": "ちかいみらい",
+  "en": "Near future"
+ },
+ {
+  "id": 715,
+  "context": "Spread position label (Rudo), item 4",
+  "jp": " アドバイス",
+  "en": "Advice"
+ },
+ {
+  "id": 716,
+  "context": "Spread position label (Rudo), item 5",
+  "jp": " まわりの人",
+  "en": "Your circle"
+ },
+ {
+  "id": 717,
+  "context": "Spread position label (Rudo), item 6",
+  "jp": " のぞみ",
+  "en": "Your hopes"
+ },
+ {
+  "id": 718,
+  "context": "Spread position label (Rudo), item 7",
+  "jp": " はんだん",
+  "en": "Verdict"
+ },
+ {
+  "id": 719,
+  "context": "Spread position label (Rudo), item 8",
+  "jp": "おしまいじゃ",
+  "en": "That's all"
+ },
+ {
+  "id": 720,
+  "context": "Card screen heading (Nana), position 1",
+  "jp": "あの人の\n   かこ",
+  "en": "Their past"
+ },
+ {
+  "id": 721,
+  "context": "Card screen heading (Nana), position 2",
+  "jp": "\nあの人の今",
+  "en": "Their\npresent"
+ },
+ {
+  "id": 722,
+  "context": "Card screen heading (Nana), position 3",
+  "jp": "ちかい\n  みらい",
+  "en": "Near\nfuture"
+ },
+ {
+  "id": 723,
+  "context": "Card screen heading (Nana), position 4",
+  "jp": "\nアドバイス",
+  "en": "\nAdvice"
+ },
+ {
+  "id": 724,
+  "context": "Card screen heading (Nana), position 5",
+  "jp": "まわりの人 のキモチ",
+  "en": "How others\nfeel"
+ },
+ {
+  "id": 725,
+  "context": "Card screen heading (Nana), position 6",
+  "jp": "グッズと\nおまじない",
+  "en": "Charms and\nitems"
+ },
+ {
+  "id": 726,
+  "context": "Card screen heading (Nana), position 7",
+  "jp": "あいの\n  ゆくえ",
+  "en": "Love's path"
+ },
+ {
+  "id": 727,
+  "context": "Card screen heading (Regina), position 1",
+  "jp": "あなたの\n   かこ",
+  "en": "Your past"
+ },
+ {
+  "id": 728,
+  "context": "Card screen heading (Regina), position 2",
+  "jp": "げんざいの  あなた",
+  "en": "You at\npresent"
+ },
+ {
+  "id": 729,
+  "context": "Card screen heading (Regina), position 3",
+  "jp": "ちかい\n  みらい",
+  "en": "Near\nfuture"
+ },
+ {
+  "id": 730,
+  "context": "Card screen heading (Regina), position 4",
+  "jp": "\nアドバイス",
+  "en": "\nAdvice"
+ },
+ {
+  "id": 731,
+  "context": "Card screen heading (Regina), position 5",
+  "jp": "じょう\n  きょう",
+  "en": "Situation"
+ },
+ {
+  "id": 732,
+  "context": "Card screen heading (Regina), position 6",
+  "jp": "ピッタリの おしごと",
+  "en": "Your ideal\njob"
+ },
+ {
+  "id": 733,
+  "context": "Card screen heading (Regina), position 7",
+  "jp": "さいしゅう はんだん",
+  "en": "Final\nverdict"
+ },
+ {
+  "id": 734,
+  "context": "Card screen heading (Rudo), position 1",
+  "jp": "あなたの\n   かこ",
+  "en": "Your past"
+ },
+ {
+  "id": 735,
+  "context": "Card screen heading (Rudo), position 2",
+  "jp": "あなたの\n げんざい",
+  "en": "Your\npresent"
+ },
+ {
+  "id": 736,
+  "context": "Card screen heading (Rudo), position 3",
+  "jp": "ちかい\n  みらい",
+  "en": "Near\nfuture"
+ },
+ {
+  "id": 737,
+  "context": "Card screen heading (Rudo), position 4",
+  "jp": "アドバイス",
+  "en": "Advice"
+ },
+ {
+  "id": 738,
+  "context": "Card screen heading (Rudo), position 5",
+  "jp": "\nまわりの人 のキモチ",
+  "en": "How others\nfeel"
+ },
+ {
+  "id": 739,
+  "context": "Card screen heading (Rudo), position 6",
+  "jp": "あなたの\n  のぞみ",
+  "en": "Your hopes"
+ },
+ {
+  "id": 740,
+  "context": "Card screen heading (Rudo), position 7",
+  "jp": "さいしゅう はんだん",
+  "en": "Final\nverdict"
+ },
+ {
+  "id": 741,
+  "context": "Reading screen heading (Nana), position 1",
+  "jp": "『あの人』の\nかこ・せいかく",
+  "en": "Their past and\npersonality"
+ },
+ {
+  "id": 742,
+  "context": "Reading screen heading (Nana), position 2",
+  "jp": "\n『あの人』の今",
+  "en": "\nTheir present"
+ },
+ {
+  "id": 743,
+  "context": "Reading screen heading (Nana), position 3",
+  "jp": "1しゅうかん\n   さきは?",
+  "en": "A week from now?"
+ },
+ {
+  "id": 744,
+  "context": "Reading screen heading (Nana), position 4",
+  "jp": "\n アドバイス",
+  "en": "\nAdvice"
+ },
+ {
+  "id": 745,
+  "context": "Reading screen heading (Nana), position 5",
+  "jp": "まわりの人の\n    キモチ",
+  "en": "Feelings of\nyour circle"
+ },
+ {
+  "id": 746,
+  "context": "Reading screen heading (Nana), position 6",
+  "jp": "こいのグッズと  おまじない",
+  "en": "Lucky love items\nand charms"
+ },
+ {
+  "id": 747,
+  "context": "Reading screen heading (Nana), position 7",
+  "jp": "『あい』の\n    ゆくえ",
+  "en": "Love's path"
+ },
+ {
+  "id": 748,
+  "context": "Reading screen heading (Regina), position 1",
+  "jp": "あなたの\n かことタイプ",
+  "en": "Your past and\ncharacter"
+ },
+ {
+  "id": 749,
+  "context": "Reading screen heading (Regina), position 2",
+  "jp": "げんざいの\n    あなた",
+  "en": "You at present"
+ },
+ {
+  "id": 750,
+  "context": "Reading screen heading (Regina), position 3",
+  "jp": "1しゅうかん\n   さきは?",
+  "en": "A week from now?"
+ },
+ {
+  "id": 751,
+  "context": "Reading screen heading (Regina), position 4",
+  "jp": "\n アドバイス",
+  "en": "\nAdvice"
+ },
+ {
+  "id": 752,
+  "context": "Reading screen heading (Regina), position 5",
+  "jp": "まわりの\n じょうきょう",
+  "en": "The situation\naround you"
+ },
+ {
+  "id": 753,
+  "context": "Reading screen heading (Regina), position 6",
+  "jp": "ピッタリの\n   おしごと",
+  "en": "Your ideal job"
+ },
+ {
+  "id": 754,
+  "context": "Reading screen heading (Regina), position 7",
+  "jp": "さいしゅう\n   はんだん",
+  "en": "Final verdict"
+ },
+ {
+  "id": 755,
+  "context": "Reading screen heading (Rudo), position 1",
+  "jp": "あなたの\n   『かこ』",
+  "en": "Your past"
+ },
+ {
+  "id": 756,
+  "context": "Reading screen heading (Rudo), position 2",
+  "jp": "あなたの\n 『げんざい』",
+  "en": "Your present"
+ },
+ {
+  "id": 757,
+  "context": "Reading screen heading (Rudo), position 3",
+  "jp": "ちかい\n『みらい』は?",
+  "en": "The near future?"
+ },
+ {
+  "id": 758,
+  "context": "Reading screen heading (Rudo), position 4",
+  "jp": "\n アドバイス",
+  "en": "\nAdvice"
+ },
+ {
+  "id": 759,
+  "context": "Reading screen heading (Rudo), position 5",
+  "jp": "まわりの人の\n    キモチ",
+  "en": "Feelings of\nyour circle"
+ },
+ {
+  "id": 760,
+  "context": "Reading screen heading (Rudo), position 6",
+  "jp": "あなたの\n  『のぞみ』",
+  "en": "Your hopes"
+ },
+ {
+  "id": 761,
+  "context": "Reading screen heading (Rudo), position 7",
+  "jp": "さいしゅう\n   はんだん",
+  "en": "Final verdict"
+ },
+ {
+  "id": 762,
+  "context": "Title screen marquee",
+  "jp": "『タロットうらない』とは?  このソフトでは『大アルカナ』とよばれている22まいのカードでうらないをします。『うらない』をするときには、心をしずめて『しゅうちゅう』してうらないましょう。おなじ『しつもん』をつづけてうらなうと『こうか』がなくなるといわれていますのできをつけましょう。",
+  "en": "What is tarot reading? This program tells your fortune with the 22 cards known as the Major Arcana. When you have your fortune read, calm your mind and concentrate. It is said that asking the same question again and again makes the reading lose its power, so take care."
+ },
+ {
+  "id": 763,
+  "context": "Intro marquee (the house)",
+  "jp": "あるひ、あなたはみなれた『けしき』がちがうコトにきがつきます。  『あれ? あんなところにおゥチがたってるわ。  へんネ、まえには なかったのに・・・  タロットのやかた?  だれでもうらなってもらえるのかしら・・・』",
+  "en": "One day, you notice that the familiar scenery looks different. \"Huh? There's a house standing over there. That's odd, it wasn't there before... The House of Tarot? I wonder if anyone can have their fortune told there...\""
+ },
+ {
+  "id": 764,
+  "context": "Intro marquee (the door)",
+  "jp": "とびらはすこしあいているようです。『あなたのくるのを おまちしていました。どうぞ、おはいりください。』  『どうしてわたしがくるのがわかったのかしら・・・』  さあ、とびらをあけてみましょう。",
+  "en": "The door seems to be slightly open. \"We have been waiting for you to come. Please, come in.\" \"How did they know I was coming...?\" Now, let's open the door."
+ },
+ {
+  "id": 765,
+  "context": "Fortune teller names under the portraits",
+  "jp": "ナナ レジナ ルド",
+  "en": "Nana Regina Rudo"
+ },
+ {
+  "id": 766,
+  "context": "Fortune teller selection",
+  "jp": "だれにうらなって\nもらうか、ちょっと\nのぞいてみましょう。",
+  "en": "Let's take a peek at who might read your fortune."
+ },
+ {
+  "id": 767,
+  "context": "Nana's greeting",
+  "jp": "あなたの『こい』の\nなやみにこたえるわ。",
+  "en": "I'll answer your worries about love."
+ },
+ {
+  "id": 768,
+  "context": "Regina's greeting",
+  "jp": "せいせきやおしごとのなやみにこたえます。",
+  "en": "I will answer your worries about grades and work."
+ },
+ {
+  "id": 769,
+  "context": "Rudo's greeting (good mood)",
+  "jp": "きょうはきぶんがよい。ワシに、まかせなさい。",
+  "en": "I am in a good mood today. Leave it to me."
+ },
+ {
+  "id": 770,
+  "context": "Rudo's greeting (refusal)",
+  "jp": "きょうは、ほかの人にたのんでくれんかのー。",
+  "en": "Not today. Ask one of the others, would you?"
+ },
+ {
+  "id": 771,
+  "context": "Rudo's second refusal",
+  "jp": "ワシは、きょうはつかれとるんじゃがのぉー。",
+  "en": "I am worn out today, mind you..."
+ },
+ {
+  "id": 772,
+  "context": "Confirm prompt",
+  "jp": "1 やめる／2 きめる",
+  "en": "1 Back / 2 Choose"
+ },
+ {
+  "id": 773,
+  "context": "Nana and Regina: before the reading",
+  "jp": "わたしがうらないます。では、あなたのことをすこし、おしえてね。",
+  "en": "I will be reading for you. Tell me a little about yourself."
+ },
+ {
+  "id": 774,
+  "context": "Rudo: before the reading",
+  "jp": "では、はじめよう。\nおまえさまのことを\nすこし、きこうかのう。",
+  "en": "Let us begin, then. First, tell me a little about yourself, young one."
+ },
+ {
+  "id": 775,
+  "context": "Rudo: after refusing",
+  "jp": "では、しかたがない。まったく、わがままなヤツじゃのう。",
+  "en": "Well, it cannot be helped. Hmph. What a selfish one."
+ },
+ {
+  "id": 776,
+  "context": "Zodiac menu: Aries",
+  "jp": "おひつじ",
+  "en": "Aries"
+ },
+ {
+  "id": 777,
+  "context": "Zodiac menu: Taurus",
+  "jp": "おうし",
+  "en": "Taurus"
+ },
+ {
+  "id": 778,
+  "context": "Zodiac menu: Gemini",
+  "jp": "ふたご",
+  "en": "Gemini"
+ },
+ {
+  "id": 779,
+  "context": "Zodiac menu: Cancer",
+  "jp": "かに",
+  "en": "Cancer"
+ },
+ {
+  "id": 780,
+  "context": "Zodiac menu: Leo",
+  "jp": "しし",
+  "en": "Leo"
+ },
+ {
+  "id": 781,
+  "context": "Zodiac menu: Virgo",
+  "jp": "おとめ",
+  "en": "Virgo"
+ },
+ {
+  "id": 782,
+  "context": "Zodiac menu: Libra",
+  "jp": "てんびん",
+  "en": "Libra"
+ },
+ {
+  "id": 783,
+  "context": "Zodiac menu: Scorpio",
+  "jp": "さそり",
+  "en": "Scorpio"
+ },
+ {
+  "id": 784,
+  "context": "Zodiac menu: Sagittarius",
+  "jp": "いて",
+  "en": "Sagittarius"
+ },
+ {
+  "id": 785,
+  "context": "Zodiac menu: Capricorn",
+  "jp": "やぎ",
+  "en": "Capricorn"
+ },
+ {
+  "id": 786,
+  "context": "Zodiac menu: Aquarius",
+  "jp": "みずがめ",
+  "en": "Aquarius"
+ },
+ {
+  "id": 787,
+  "context": "Zodiac menu: Pisces",
+  "jp": "うお",
+  "en": "Pisces"
+ },
+ {
+  "id": 788,
+  "context": "Zodiac reading heading: Aries",
+  "jp": "おひつじ座の人",
+  "en": "Aries-born"
+ },
+ {
+  "id": 789,
+  "context": "Zodiac reading heading: Taurus",
+  "jp": "おうし座の人",
+  "en": "Taurus-born"
+ },
+ {
+  "id": 790,
+  "context": "Zodiac reading heading: Gemini",
+  "jp": "ふたご座の人",
+  "en": "Gemini-born"
+ },
+ {
+  "id": 791,
+  "context": "Zodiac reading heading: Cancer",
+  "jp": " かに座の人",
+  "en": "Cancer-born"
+ },
+ {
+  "id": 792,
+  "context": "Zodiac reading heading: Leo",
+  "jp": " しし座の人",
+  "en": "Leo-born"
+ },
+ {
+  "id": 793,
+  "context": "Zodiac reading heading: Virgo",
+  "jp": "おとめ座の人",
+  "en": "Virgo-born"
+ },
+ {
+  "id": 794,
+  "context": "Zodiac reading heading: Libra",
+  "jp": "てんびん座の人",
+  "en": "Libra-born"
+ },
+ {
+  "id": 795,
+  "context": "Zodiac reading heading: Scorpio",
+  "jp": "さそり座の人",
+  "en": "Scorpio-born"
+ },
+ {
+  "id": 796,
+  "context": "Zodiac reading heading: Sagittarius",
+  "jp": " いて座の人",
+  "en": "Sagittarius-born"
+ },
+ {
+  "id": 797,
+  "context": "Zodiac reading heading: Capricorn",
+  "jp": " やぎ座の人",
+  "en": "Capricorn-born"
+ },
+ {
+  "id": 798,
+  "context": "Zodiac reading heading: Aquarius",
+  "jp": "みずがめ座の人",
+  "en": "Aquarius-born"
+ },
+ {
+  "id": 799,
+  "context": "Zodiac reading heading: Pisces",
+  "jp": " うお座の人",
+  "en": "Pisces-born"
+ },
+ {
+  "id": 800,
+  "context": "Zodiac dates: Aries",
+  "jp": " 3／21ー4／20",
+  "en": "3/21-4/20"
+ },
+ {
+  "id": 801,
+  "context": "Zodiac dates: Taurus",
+  "jp": " 4／21ー5／21",
+  "en": "4/21-5/21"
+ },
+ {
+  "id": 802,
+  "context": "Zodiac dates: Gemini",
+  "jp": " 5／22ー6／21",
+  "en": "5/22-6/21"
+ },
+ {
+  "id": 803,
+  "context": "Zodiac dates: Cancer",
+  "jp": " 6／22ー7／23",
+  "en": "6/22-7/23"
+ },
+ {
+  "id": 804,
+  "context": "Zodiac dates: Leo",
+  "jp": " 7／24ー8／23",
+  "en": "7/24-8/23"
+ },
+ {
+  "id": 805,
+  "context": "Zodiac dates: Virgo",
+  "jp": " 8／24ー9／23",
+  "en": "8/24-9/23"
+ },
+ {
+  "id": 806,
+  "context": "Zodiac dates: Libra",
+  "jp": " 9／24ー10／23",
+  "en": "9/24-10/23"
+ },
+ {
+  "id": 807,
+  "context": "Zodiac dates: Scorpio",
+  "jp": "10／24ー11／22",
+  "en": "10/24-11/22"
+ },
+ {
+  "id": 808,
+  "context": "Zodiac dates: Sagittarius",
+  "jp": "11／23ー12／22",
+  "en": "11/23-12/22"
+ },
+ {
+  "id": 809,
+  "context": "Zodiac dates: Capricorn",
+  "jp": "12／23ー1／20",
+  "en": "12/23-1/20"
+ },
+ {
+  "id": 810,
+  "context": "Zodiac dates: Aquarius",
+  "jp": " 1／21ー2／19",
+  "en": "1/21-2/19"
+ },
+ {
+  "id": 811,
+  "context": "Zodiac dates: Pisces",
+  "jp": " 2／20ー3／20",
+  "en": "2/20-3/20"
+ },
+ {
+  "id": 812,
+  "context": "Zodiac prompt",
+  "jp": " あなたの星座は?",
+  "en": "What is your sign?"
+ },
+ {
+  "id": 813,
+  "context": "Zodiac confirm prompt",
+  "jp": " よろしいですか?",
+  "en": "Is this correct?"
+ },
+ {
+  "id": 814,
+  "context": "Nana and Regina: shuffle prompt",
+  "jp": "さあ、心をしずめて、シャッフルしましょう。",
+  "en": "Come, calm your mind and let's shuffle."
+ },
+ {
+  "id": 815,
+  "context": "Rudo: shuffle prompt",
+  "jp": "さあ、心をしずめて、シャッフルしようぞ。",
+  "en": "Come, calm your mind. We shall shuffle."
+ },
+ {
+  "id": 816,
+  "context": "Shuffle screen hint (button 2)",
+  "jp": "2ボタンでシャッフル",
+  "en": "Button 2: Shuffle"
+ },
+ {
+  "id": 817,
+  "context": "Shuffle screen hint (button 1)",
+  "jp": "1ボタンでかいしゅう",
+  "en": "Button 1: Gather cards"
+ },
+ {
+  "id": 818,
+  "context": "Card name: The Fool",
+  "jp": "おろかもの",
+  "en": "The Fool"
+ },
+ {
+  "id": 819,
+  "context": "Card name: The Magician",
+  "jp": "まじゅつし",
+  "en": "The\nMagician"
+ },
+ {
+  "id": 820,
+  "context": "Card name: The High Priestess",
+  "jp": "じょせい\nきょうこう",
+  "en": "The High\nPriestess"
+ },
+ {
+  "id": 821,
+  "context": "Card name: The Empress",
+  "jp": "じょてい",
+  "en": "The\nEmpress"
+ },
+ {
+  "id": 822,
+  "context": "Card name: The Emperor",
+  "jp": "こうてい",
+  "en": "The\nEmperor"
+ },
+ {
+  "id": 823,
+  "context": "Card name: The Hierophant",
+  "jp": "だんせい\nきょうこう",
+  "en": "The\nHierophant"
+ },
+ {
+  "id": 824,
+  "context": "Card name: The Lovers",
+  "jp": "こいびと",
+  "en": "The Lovers"
+ },
+ {
+  "id": 825,
+  "context": "Card name: The Chariot",
+  "jp": "せんしゃ",
+  "en": "The\nChariot"
+ },
+ {
+  "id": 826,
+  "context": "Card name: Justice",
+  "jp": " せいぎ",
+  "en": "Justice"
+ },
+ {
+  "id": 827,
+  "context": "Card name: The Hermit",
+  "jp": "いんじゃ",
+  "en": "The Hermit"
+ },
+ {
+  "id": 828,
+  "context": "Card name: Wheel of Fortune",
+  "jp": "うんめいの 『わ』",
+  "en": "Wheel of\nFortune"
+ },
+ {
+  "id": 829,
+  "context": "Card name: Strength",
+  "jp": " ちから",
+  "en": "Strength"
+ },
+ {
+  "id": 830,
+  "context": "Card name: The Hanged Man",
+  "jp": "つられた\n  おとこ",
+  "en": "The Hanged\nMan"
+ },
+ {
+  "id": 831,
+  "context": "Card name: Death",
+  "jp": "しにがみ",
+  "en": "Death"
+ },
+ {
+  "id": 832,
+  "context": "Card name: Temperance",
+  "jp": "せっせい",
+  "en": "Temperance"
+ },
+ {
+  "id": 833,
+  "context": "Card name: The Devil",
+  "jp": " あくま",
+  "en": "The Devil"
+ },
+ {
+  "id": 834,
+  "context": "Card name: The Tower",
+  "jp": " とう",
+  "en": "The Tower"
+ },
+ {
+  "id": 835,
+  "context": "Card name: The Star",
+  "jp": " ほし",
+  "en": "The Star"
+ },
+ {
+  "id": 836,
+  "context": "Card name: The Moon",
+  "jp": " つき",
+  "en": "The Moon"
+ },
+ {
+  "id": 837,
+  "context": "Card name: The Sun",
+  "jp": "たいよう",
+  "en": "The Sun"
+ },
+ {
+  "id": 838,
+  "context": "Card name: Judgement",
+  "jp": "しんぱん",
+  "en": "Judgement"
+ },
+ {
+  "id": 839,
+  "context": "Card name: The World",
+  "jp": " せかい",
+  "en": "The World"
+ },
+ {
+  "id": 840,
+  "context": "Card orientation: upright",
+  "jp": " 正位置",
+  "en": "Upright"
+ },
+ {
+  "id": 841,
+  "context": "Card orientation: reversed",
+  "jp": " 逆位置",
+  "en": "Reversed"
+ },
+ {
+  "id": 842,
+  "context": "Nana's farewell",
+  "jp": "あの人との『こい』がみのりますように。\nさようなら。",
+  "en": "I hope your love for them blossoms. Goodbye!"
+ },
+ {
+  "id": 843,
+  "context": "Regina's farewell",
+  "jp": "あなたのシアワセを\n心からいのっているわ。がんばってね。",
+  "en": "From my heart, I wish you happiness. Do your best."
+ },
+ {
+  "id": 844,
+  "context": "Rudo's farewell",
+  "jp": "いきていくコトは\nむずかしいものじゃナ。わしゃ、つかれた・・",
+  "en": "Living is no easy thing, I reckon. I am worn out..."
+ },
+ {
+  "id": 845,
+  "context": "Credits marquee",
+  "jp": "あなたの『うんせい』は、いかがでしたか?    それではここで、このソフトのせいさくスタッフをしょうかいしましょう。    プラン・・・テコ     プログラム・・・ターボー、ソビくん     ミュージック・・・ぜんぞー     カード・デザイン・・・しん、ゆみえ     キャラクター・・・ほげろー     システム・・・エースエス     ディレクター・・・かっちゃん",
+  "en": "How was your fortune? And now, let us introduce the staff who made this program.   Plan... Teko   Program... Turbo, Sobi-kun   Music... Zenzo   Card Design... Shin, Yumie   Character... Hogero   System... Ace-S   Director... Kacchan"
+ }
+]

@@ -1,0 +1,926 @@
+[
+ {
+  "id": 154,
+  "context": "Nana: Strength, upright, position: that person's past",
+  "jp": "あの人は、ナカナカ\n『じょうねつテキ』ね。あいてのコトを\n思いやる『やさしさ』    もある人。\n『りそう』のタイプね。",
+  "en": "They're quite the passionate type! And they've got the kindness to think of others' feelings, too. Your ideal kind of person."
+ },
+ {
+  "id": 155,
+  "context": "Nana: Strength, upright, position: that person's present",
+  "jp": "あの人は、\nヒョットしたら\nあなたに『き』がある  カモしれないわ。思いきって『きもち』をゥチアケてみたら?",
+  "en": "You know, they just might have a thing for you. Why not take the plunge and tell them how you feel?"
+ },
+ {
+  "id": 156,
+  "context": "Nana: Strength, upright, position: the near future",
+  "jp": "あなたの『きもち』があの人にツゥじます!ラッキーチャンスね。ながくツヅかせるには、つよい心と『どりょく』   がヒツヨゥよ。",
+  "en": "Your feelings will get through to them! It's a lucky chance. But to make it last, you'll need a strong heart and real effort."
+ },
+ {
+  "id": 157,
+  "context": "Nana: Strength, upright, position: advice",
+  "jp": "自分に『きびしく』\n    しましょう。けっして\n『よわね』『ぐち』を  イワないコト。\n友人にはヤサしくネ。",
+  "en": "Be strict with yourself. No whining and no complaining, ever. Be gentle with your friends, though."
+ },
+ {
+  "id": 158,
+  "context": "Nana: Strength, upright, position: the people around you",
+  "jp": "まわりの人から\n『そうだん』されたら、できるダケのコトを\n   してあげてね。みんなアナタを\n『たより』にしてるワ。",
+  "en": "If the people around you come to you for advice, do all you can for them. Everyone's counting on you."
+ },
+ {
+  "id": 159,
+  "context": "Nana: Strength, upright, position: love charms and goods",
+  "jp": "『こうこうヤキュゥ』  の『かんせん』。スポーツクラブで\n   アセをながす。『やましたタツロゥ』   のCDをきく。",
+  "en": "Watch a high school baseball game. Work up a sweat at a sports club. Listen to a Tatsuro Yamashita CD."
+ },
+ {
+  "id": 160,
+  "context": "Nana: Strength, upright, position: where the love is heading",
+  "jp": "あの人も『あなた』のコトを思ってイタのよ。『じょうねつテキ』な    『こい』ね。まわりに、あんまり\nミセつけないように!",
+  "en": "They've been thinking of you too! It's going to be a passionate romance. Just don't flaunt it too much in front of everyone!"
+ },
+ {
+  "id": 161,
+  "context": "Nana: Strength, reversed, position: that person's past",
+  "jp": "あの人は\nタノマレると\n『イヤ』とコトワレ\n    ないタイプ。いい人ナンダけれど、 『き』がヨワいわ。",
+  "en": "They're the type who can't say no when someone asks a favor. A good person, but a bit weak-willed."
+ },
+ {
+  "id": 162,
+  "context": "Nana: Strength, reversed, position: that person's present",
+  "jp": "あの人は、\nすこし『てんぐ』に\n  ナッテいるわよ。『れいせい』になって ホントの心を\n  サグリましょう。",
+  "en": "They're getting a little full of themselves right now. Keep a cool head and look for what's really in their heart."
+ },
+ {
+  "id": 163,
+  "context": "Nana: Strength, reversed, position: the near future",
+  "jp": "あの人は、\n トテモ『いい人』\n  なんだけれど、\n  『わがまま』ね。ふたりは、うまく\nおツキアイできるカナ?",
+  "en": "They're a really good person, but selfish, too. I wonder if the two of you can really make it work?"
+ },
+ {
+  "id": 164,
+  "context": "Nana: Strength, reversed, position: advice",
+  "jp": "キソクただしい\n 『せいかつ』を\n    しましょう。『たいりょく』が\nナイと、『こい』も\n  つづかないゾ。",
+  "en": "Keep to a regular daily routine, okay? If you don't have the stamina, even love won't last!"
+ },
+ {
+  "id": 165,
+  "context": "Nana: Strength, reversed, position: the people around you",
+  "jp": "まわりカラ\n『あそび』のサソイが、  イッパイ!\nあの人との\n『やくそく』を\n 『たいせつ』にネ。",
+  "en": "Invitations to go out and have fun are pouring in from all around! But treasure the promises you've made to the one you like."
+ },
+ {
+  "id": 166,
+  "context": "Nana: Strength, reversed, position: love charms and goods",
+  "jp": "あかいキャンドルに\n『ひ』をトモして、\n  しずかに\n自分のコトを\n  カンガエて\n   みましょう。",
+  "en": "Light a red candle, and in the quiet, take some time to think things over about yourself."
+ },
+ {
+  "id": 167,
+  "context": "Nana: Strength, reversed, position: where the love is heading",
+  "jp": "あの人との\n  『こい』は、\nサイショは\nゥマクいっても、\n ながくは、\n  つづかナイカモ。",
+  "en": "Your romance with them may go well at the start, but it might not last for long, I'm afraid."
+ },
+ {
+  "id": 168,
+  "context": "Nana: The Hanged Man, upright, position: that person's past",
+  "jp": "あの人は、\n『がまん』づよい\n    タイプね。\n『まわり』のコトを\n  カンガエる\n『やさしさ』もあるワ。",
+  "en": "They're the patient type, the kind who can put up with a lot. They've got the kindness to think of those around them, too."
+ },
+ {
+  "id": 169,
+  "context": "Nana: The Hanged Man, upright, position: that person's present",
+  "jp": "あの人は、トテモ\n 『すてき』な人ね。ライバルも\nたくさんイルみたい。よっぽど\nガンバラなくては!",
+  "en": "They're a really wonderful person. Seems like you've got plenty of rivals, too. You'll have to try extra hard!"
+ },
+ {
+  "id": 170,
+  "context": "Nana: The Hanged Man, upright, position: the near future",
+  "jp": "あの人の心を\n  ツカムには、\nちがう『あなた』に\nならなくては、ダメ。自分の『ちせい』を\n『みがき』ましょう。",
+  "en": "To win their heart, you'll have to become a different you. Polish up your mind and your wits."
+ },
+ {
+  "id": 171,
+  "context": "Nana: The Hanged Man, upright, position: advice",
+  "jp": "あの人と\nむすばレルには、\n『がまん』『どりょく』が、ヒツヨゥね。\nあなたは、どのクライ  ガンバレルかな?",
+  "en": "Ending up with them is going to take patience and effort. Just how hard are you willing to try?"
+ },
+ {
+  "id": 172,
+  "context": "Nana: The Hanged Man, upright, position: the people around you",
+  "jp": "まわりの人から\n 『あの人』のコト\n『はんたい』される\n  カモしれないワ。みんなを『せっとく』  デキルかな?",
+  "en": "The people around you might be against you and the one you like. Do you think you can win them all over?"
+ },
+ {
+  "id": 173,
+  "context": "Nana: The Hanged Man, upright, position: love charms and goods",
+  "jp": "ドライフラワーの\n 『バラ』を\n おへやにカザる。\nあかい\n  ガラスだまを\n『おまもり』にする。",
+  "en": "Decorate your room with dried roses. Keep a red glass bead as a good-luck charm."
+ },
+ {
+  "id": 174,
+  "context": "Nana: The Hanged Man, upright, position: where the love is heading",
+  "jp": "あの人のタメに\n    よくツクした『あなた』には、\n『こい』がみのる\n   『あんじ』よ! 『しあわせ』にね。",
+  "en": "You've given so much for the one you love, and the sign is that your love will bear fruit! Be happy, okay?"
+ },
+ {
+  "id": 175,
+  "context": "Nana: The Hanged Man, reversed, position: that person's past",
+  "jp": "あの人は\n『がいけん』は、\nステキなんだけれど、あなたの\n 『きもち』が\nツゥじる人かしら?",
+  "en": "They look great on the outside, but are they the kind of person your feelings can actually reach? I wonder."
+ },
+ {
+  "id": 176,
+  "context": "Nana: The Hanged Man, reversed, position: that person's present",
+  "jp": "あの人は、\nあなたイガイの\n 人のコトを\nかんがえてイルかも。あなたのキモチが\n つたわらナイわね。",
+  "en": "They might be thinking about someone other than you. Your feelings just aren't getting through to them."
+ },
+ {
+  "id": 177,
+  "context": "Nana: The Hanged Man, reversed, position: the near future",
+  "jp": "あの人は、あなたに\nよい『おへんじ』を\n   したカシラ?\nホカにすきな人が、\n   イルかもね。\n だいじょうぶ?",
+  "en": "Did they give you a good answer, I wonder? They might have someone else they like. Are you going to be okay?"
+ },
+ {
+  "id": 178,
+  "context": "Nana: The Hanged Man, reversed, position: advice",
+  "jp": "あなたの『きもち』がツタワラないとき、\n『きぶんテンカン』\n   しましょう。\nあまり思いつめ\n   ないコトよ。",
+  "en": "When your feelings aren't getting through, do something to change your mood. Don't brood over it too much."
+ },
+ {
+  "id": 179,
+  "context": "Nana: The Hanged Man, reversed, position: the people around you",
+  "jp": "たよりにしていた\n 友人とケンカを\n  してしまうカモ。あなたがイライラ\n していたカラでは、  ないのかしら。",
+  "en": "You might end up fighting with a friend you've relied on. Could it be because you've been so irritable lately?"
+ },
+ {
+  "id": 180,
+  "context": "Nana: The Hanged Man, reversed, position: love charms and goods",
+  "jp": "『しんやホゥソゥ』の 『ばんぐみ』に\n  『はがき』を\n    だしてみる。『プレゼント』が\n   あたるカモ。",
+  "en": "Try sending a postcard in to a late-night radio program. You just might win a prize from them!"
+ },
+ {
+  "id": 181,
+  "context": "Nana: The Hanged Man, reversed, position: where the love is heading",
+  "jp": "あの人とのコト\nゥマクいかないカモ。『こい』って\nガンバってもダメな\n トキがあるものね。  ツライわね。",
+  "en": "Things with them might not work out. Sometimes in love, no matter how hard you try, it just isn't enough. It hurts, I know."
+ },
+ {
+  "id": 182,
+  "context": "Nana: Death, upright, position: that person's past",
+  "jp": "あの人は、\n    スランプね。あなたのコト\n カンガエる\n    『よゆう』がないカモしれないワ。",
+  "en": "They're in a slump. They may not have the room in their heart to think about you right now."
+ },
+ {
+  "id": 183,
+  "context": "Nana: Death, upright, position: that person's present",
+  "jp": "あの人は、トテモ\n 『みりょく』テキね。でも、いまは\n『こい』のコトを\nカンガエるキモチじゃ   ナイかもね。",
+  "en": "They're really attractive, aren't they? But right now, they may not be in the mood to think about love at all."
+ },
+ {
+  "id": 184,
+  "context": "Nana: Death, upright, position: the near future",
+  "jp": "つらい『わかれ』を\n  『よかん』させる『しにがみ』の\n     カードね。ムリしてガンバってもヨケイにキズつくワ。",
+  "en": "It's the Death card, and it hints at a painful parting. Pushing yourself to keep trying will only hurt you more."
+ },
+ {
+  "id": 185,
+  "context": "Nana: Death, upright, position: advice",
+  "jp": "あの人は、あなたが、  思っているヨゥな『すてき』な人\n    なのかしら?あなたが『ごかい』\n  しているダケかも。",
+  "en": "Is the one you like really as wonderful as you think they are? It could be that you've just got the wrong idea about them."
+ },
+ {
+  "id": 186,
+  "context": "Nana: Death, upright, position: the people around you",
+  "jp": "まわりから\n  ゴカイをうけたりナカのよかった友人にゼッコゥされたり\nしばらくサンザンな\n めにあいそうです。",
+  "en": "People around you may get the wrong idea, and a close friend might even cut you off. Looks like a rough patch for a while."
+ },
+ {
+  "id": 187,
+  "context": "Nana: Death, upright, position: love charms and goods",
+  "jp": "『しろ』のハンカチ、『シルク』のパジャマを、『み』にツケる。おへやの\n『もよう』ガエを\n  してみましょう。",
+  "en": "Carry a white handkerchief and sleep in silk pajamas. Try giving your room a fresh new look, too."
+ },
+ {
+  "id": 188,
+  "context": "Nana: Death, upright, position: where the love is heading",
+  "jp": "ざんねんナガラ\n あなたの『こい』は、ゥマクいかないミタイ。ツライけど、\n あきらめましょう。  『むり』カナ・・",
+  "en": "Sorry to say it, but your love doesn't look like it'll work out. It hurts, but it's time to let go. Or is that too much to ask..."
+ },
+ {
+  "id": 189,
+  "context": "Nana: Death, reversed, position: that person's past",
+  "jp": "あの人は\n まよってイル\n  『じょうたい』ね。あなたから、\nアクションをオコサないで、まっていてネ。",
+  "en": "They're in a state of indecision right now. Don't make the first move yourself. Just wait, okay?"
+ },
+ {
+  "id": 190,
+  "context": "Nana: Death, reversed, position: that person's present",
+  "jp": "あの人は、\nあなたのコト、『きらい』じゃナイけれど、まだ『すき』でも、\n    ナイみたい。『じかん』がカカるワ。",
+  "en": "They don't dislike you, but it doesn't seem like they like you yet, either. This one's going to take time."
+ },
+ {
+  "id": 191,
+  "context": "Nana: Death, reversed, position: the near future",
+  "jp": "『き』がつかない\n カモしれないケド、あなたのコトを\nスキな人がイルわよ。ナカナカ『すてき』な  人だと思うケド。",
+  "en": "You may not have noticed, but there's someone out there who likes you. A pretty wonderful person too, if you ask me."
+ },
+ {
+  "id": 192,
+  "context": "Nana: Death, reversed, position: advice",
+  "jp": "『じかん』がカカル\n『こい』も、あるワ。アセらないで\nあの人が、\nあなたの『きもち』に、キづくのを、まってネ。",
+  "en": "Some romances just take time, you know. Don't rush things. Wait for them to notice how you feel, okay?"
+ },
+ {
+  "id": 193,
+  "context": "Nana: Death, reversed, position: the people around you",
+  "jp": "あなたたちの\nおつきあいのコトは、すこしずつだけれど\nまわりの人が\nりかいしてくれるよう  になるでしょう。",
+  "en": "Little by little, the people around you will come to understand the relationship between the two of you."
+ },
+ {
+  "id": 194,
+  "context": "Nana: Death, reversed, position: love charms and goods",
+  "jp": "マーガレットで\n『はなうらない』を\n    してみる。\nテレビの\n『クイズばんぐみ』に   オゥボしてみる。",
+  "en": "Pull the petals off a daisy: 'loves me, loves me not'. Or try applying to be a contestant on a TV quiz show."
+ },
+ {
+  "id": 195,
+  "context": "Nana: Death, reversed, position: where the love is heading",
+  "jp": "あの人との『こい』は、『じかん』をカケれば、いい『けっか』が・・でも、あなたが\n『あたらしい人』を\n  スキになるカモ。",
+  "en": "Give it time, and love with them could turn out well... but by then, you might have fallen for someone new."
+ },
+ {
+  "id": 196,
+  "context": "Nana: Temperance, upright, position: that person's past",
+  "jp": "あの人は、\n『けんじつ』で\n 『まじめ』なタイプ。あなたのコトを\n  ひそかに\n 思ってイルかもネ。",
+  "en": "They're a steady, down-to-earth and serious type. And they may well be secretly thinking about you, you know."
+ },
+ {
+  "id": 197,
+  "context": "Nana: Temperance, upright, position: that person's present",
+  "jp": "あなたタチは、\n ヒョットしたら、\n 『あかイいと』で\nむすばれているカモ。『うんめい』テキな\nモノが、アルかもね?",
+  "en": "You two just might be tied together by the red thread of fate. There could be something destined about this, you know?"
+ },
+ {
+  "id": 198,
+  "context": "Nana: Temperance, upright, position: the near future",
+  "jp": "『しあわせ』のカード。あなたの\n 『きもち』が\n    ツゥジます!あの人もあなたのコト オモッていたのね。",
+  "en": "This is the card of happiness. Your feelings will get through! Turns out they've been thinking of you, too."
+ },
+ {
+  "id": 199,
+  "context": "Nana: Temperance, upright, position: advice",
+  "jp": "ゴールドの\n   アクセサリーやハデなファッションはあの人の『このみ』に  あわないカモ。\nじみなモノにしてね。",
+  "en": "Gold accessories and flashy fashion might not be to their taste. Keep it simple and understated, okay?"
+ },
+ {
+  "id": 200,
+  "context": "Nana: Temperance, upright, position: the people around you",
+  "jp": "あなたのまわりは、\nあまい『ゆうわく』で    イッパイね!『よあそび』は\n『おはだ』と心の\n    『てき』よ。",
+  "en": "You're surrounded by sweet temptations! But nights out on the town are the enemy of your skin and your heart."
+ },
+ {
+  "id": 201,
+  "context": "Nana: Temperance, upright, position: love charms and goods",
+  "jp": "あたらしい\n『ちょきんバコ』で\nおカネをタメてみる。『りょこう』のタメの  『つみたて』を\n     はじめる。",
+  "en": "Start saving money in a brand-new piggy bank. Begin putting aside a little each month for a trip."
+ },
+ {
+  "id": 202,
+  "context": "Nana: Temperance, upright, position: where the love is heading",
+  "jp": "ふたりは、\n友人の『タスケ』を\n   かりなくても\n『しぜん』に\n ゥマくいきますよ。 おしあわせにね。",
+  "en": "The two of you will work out naturally, without any help from your friends. Be happy together!"
+ },
+ {
+  "id": 203,
+  "context": "Nana: Temperance, reversed, position: that person's past",
+  "jp": "あの人は\n『けいさんダカイ』人。自分に\n ピッタリの人を\n     みつける\n『さいのう』がアルわ。",
+  "en": "They're a calculating sort. They've got a real talent for finding exactly the right person for themselves."
+ },
+ {
+  "id": 204,
+  "context": "Nana: Temperance, reversed, position: that person's present",
+  "jp": "あの人は、\n自分の『いけん』は、シッカリしているの\nだけど、\n『じっこう』に、\n うつせないコトが。",
+  "en": "They've got firm opinions of their own, but sometimes they just can't put them into action."
+ },
+ {
+  "id": 205,
+  "context": "Nana: Temperance, reversed, position: the near future",
+  "jp": "デートの\n『やくそく』をしても、『おこづかい』が\n     ピンチに!『けいかく』を\nたててイナイから?",
+  "en": "You make a date, and then your allowance runs dry! Could it be because you never plan ahead?"
+ },
+ {
+  "id": 206,
+  "context": "Nana: Temperance, reversed, position: advice",
+  "jp": "『ほしい』モノが\n    あっても、\n『がまん』してね。\n『けいかく』を、\nたててカラのホゥが\n     イイわ。",
+  "en": "Even if there's something you want, hold off for now. Better to make a plan first, then go for it."
+ },
+ {
+  "id": 207,
+  "context": "Nana: Temperance, reversed, position: the people around you",
+  "jp": "『おねがい』が\n   アルときだけ、まわりの人に、\nやさしくしてもダメね。みんなに\nキラワれちゃいますよ。",
+  "en": "Being nice to people only when you need a favor won't do. Keep that up and everyone will end up disliking you."
+ },
+ {
+  "id": 208,
+  "context": "Nana: Temperance, reversed, position: love charms and goods",
+  "jp": "『かけいぼ』や\n『おこづかいチョゥ』    を、つける。『ぶんこ』ボンに\n   クリームいろのカバーをつける。",
+  "en": "Keep a household budget or an allowance ledger. Put a cream-colored cover on your paperback books."
+ },
+ {
+  "id": 209,
+  "context": "Nana: Temperance, reversed, position: where the love is heading",
+  "jp": "ふたりの『あいだ』はザンネンながら\n うまくイカないカモ。『りそう』ばかり\n  おいかけても\n   ダメじゃない?",
+  "en": "Sorry, but things between the two of you may not work out. You can't just chase after ideals forever, can you?"
+ },
+ {
+  "id": 210,
+  "context": "Nana: The Devil, upright, position: that person's past",
+  "jp": "あの人は、\n『こせいテキ』な人。すこしカワっている\n    トコロが、\n『みりょく』カモ\nしれないけれど・・・",
+  "en": "They're a real individual. That slightly odd streak of theirs might be part of the charm... but still..."
+ },
+ {
+  "id": 211,
+  "context": "Nana: The Devil, upright, position: that person's present",
+  "jp": "あの人は、\n『あそび』ジョゥズ。『おしゃべり』と心がチガゥかもしれません。うまく、みぬいて\n    くださいね。",
+  "en": "They're a smooth player. What they say and what they feel might be two different things. Try to see through it."
+ },
+ {
+  "id": 212,
+  "context": "Nana: The Devil, upright, position: the near future",
+  "jp": "『ふきつ』な\n『あくま』のカードね。あの人と\n『おつきあい』するとあなたが『きず』つく  コトになるかも。",
+  "en": "It's the Devil, an ominous card. Getting involved with this person could end up hurting you."
+ },
+ {
+  "id": 213,
+  "context": "Nana: The Devil, upright, position: advice",
+  "jp": "友人の『こいびと』が  サソってくるカモ。『さそい』にのったら たいせつな友人の\n 『しんよう』を\n   うしなうわよ。",
+  "en": "A friend's sweetheart might make a pass at you. Go along with it, and you'll lose the trust of a friend who matters."
+ },
+ {
+  "id": 214,
+  "context": "Nana: The Devil, upright, position: the people around you",
+  "jp": "『まち』で『こえ』を カケテくる人に、\n    ついていくとトンデモないコトに\n    なるわよ。\n  ごヨゥジン!",
+  "en": "Follow someone who calls out to you on the street and you'll land in real trouble. Watch yourself!"
+ },
+ {
+  "id": 215,
+  "context": "Nana: The Devil, upright, position: love charms and goods",
+  "jp": "キソクただしい\n 『せいかつ』を\n   しましょう。\n『けんこう』に\n  ガイのあるコトは   やめましょう。",
+  "en": "Keep to a regular daily routine. And cut out anything that's doing harm to your health."
+ },
+ {
+  "id": 216,
+  "context": "Nana: The Devil, upright, position: where the love is heading",
+  "jp": "あなたタチの\n   おツキアイは\nさいしゅうテキには\nゥマクいかないカモ。『びょうき』に\nチュゥイしましょうネ。",
+  "en": "In the end, the relationship between you two might not work out. Take care of your health, too; watch out for illness."
+ },
+ {
+  "id": 217,
+  "context": "Nana: The Devil, reversed, position: that person's past",
+  "jp": "あの人と\n ツキアゥのは、\n  むずかしいカモ。あの人にトクシュな\n 『さいのう』が\n   アルからだわ。",
+  "en": "Going out with them could be tough. They've got a special talent, you see, and that's what makes it hard."
+ },
+ {
+  "id": 218,
+  "context": "Nana: The Devil, reversed, position: that person's present",
+  "jp": "あの人は、\n  自分のペースを\nとりもどしたトコロ。あなたのコトを\nカンガエる『よゆう』が、デテきたミタイ。",
+  "en": "They've just found their footing again. Looks like they finally have room in their heart to think about you."
+ },
+ {
+  "id": 219,
+  "context": "Nana: The Devil, reversed, position: the near future",
+  "jp": "すこしずつダケど\n  『はる』のケハイ。『こいびと』と\n  ワカレた人には、あたらしい『いい人』ができる『あんじ』よ。",
+  "en": "Slowly but surely, spring is in the air. If you've just split with someone, this hints that a new love is on the way."
+ },
+ {
+  "id": 220,
+  "context": "Nana: The Devil, reversed, position: advice",
+  "jp": "あかるい『きぶん』に     ナレそう!あたらしい友人も\n    できますよ。『せっきょくテキ』に   なりましょう。",
+  "en": "Looks like your mood's about to brighten! You'll make new friends, too. Be bold and take the initiative."
+ },
+ {
+  "id": 221,
+  "context": "Nana: The Devil, reversed, position: the people around you",
+  "jp": "友だちとみんなで\n 『りょこう』を\n    してみたら?たびさきで\nいい『であい』が\n   あるでしょう。",
+  "en": "How about taking a trip with a bunch of friends? You'll probably meet someone nice while you're away."
+ },
+ {
+  "id": 222,
+  "context": "Nana: The Devil, reversed, position: love charms and goods",
+  "jp": "『うんどうかい』や、『ぶんかさい』などの『かんじ』を\n    ひきうける。『としょかん』で\n   ドクショをする。",
+  "en": "Volunteer to organize the sports day or the school festival. Do some reading at the library."
+ },
+ {
+  "id": 223,
+  "context": "Nana: The Devil, reversed, position: where the love is heading",
+  "jp": "あなたの『こい』は、うまくイカないカモ。ひとりだけに\n    きめないで、たくさんの人と\nつきあってみましょう。",
+  "en": "Your love might not work out. Don't settle on just one person; try going out with lots of different people."
+ },
+ {
+  "id": 224,
+  "context": "Nana: The Tower, upright, position: that person's past",
+  "jp": "あの人は、\nスコシ『なげやり』になっているミタイね。やさしいキモチで\n『みまも』って\n     あげてね。",
+  "en": "They seem to have gotten a bit careless and given up trying. Keep a kind eye on them and watch over them, okay?"
+ },
+ {
+  "id": 225,
+  "context": "Nana: The Tower, upright, position: that person's present",
+  "jp": "あの人に、\n『わるい』アンジね。『じこ』にあうカモ。じょうずに\n『ちゅうい』して\n  あげられるカナ?",
+  "en": "A bad omen for the one you like. They might have an accident. Can you find a tactful way to warn them?"
+ },
+ {
+  "id": 226,
+  "context": "Nana: The Tower, upright, position: the near future",
+  "jp": "つまらないコトで\n   『大げんか』。『なかなおり』\n しようと思っても、『じたい』は\n ワルくなるばかり!",
+  "en": "A huge fight over something silly. Even if you try to make up, things just keep getting worse!"
+ },
+ {
+  "id": 227,
+  "context": "Nana: The Tower, upright, position: advice",
+  "jp": "アクシデントに\nまきこまれる『あんじ』ふだんでは\nカンガエられない\nミスをしてシマイそう。『ちゅうい』してね。",
+  "en": "There's a hint you'll be caught up in an accident. You may make a mistake you'd never normally make. Be careful."
+ },
+ {
+  "id": 228,
+  "context": "Nana: The Tower, upright, position: the people around you",
+  "jp": "ナカのよい友人と\n   『大ゲンカ』!まわりの人も\n友人のミカタをするわ。自分の『こうどう』を『はんせい』しまショ。",
+  "en": "A big blowup with a close friend! And everyone else will take their side. Time to take a hard look at how you've been acting."
+ },
+ {
+  "id": 229,
+  "context": "Nana: The Tower, upright, position: love charms and goods",
+  "jp": "おへやに\nポプリの『ふくろ』をタクサン\nつるしてみましょう。シャワーソープを\nかえてみてもイイわ。",
+  "en": "Hang lots of little potpourri sachets around your room. Switching to a new shower soap would be nice, too."
+ },
+ {
+  "id": 230,
+  "context": "Nana: The Tower, upright, position: where the love is heading",
+  "jp": "まわりが、\n  ゥラヤムような、『おつきあい』を\n    していても、ふたりは、ゥマク\n いかなくなるカモ。",
+  "en": "Even if you have the kind of relationship everyone envies, things may stop going well between the two of you."
+ },
+ {
+  "id": 231,
+  "context": "Nana: The Tower, reversed, position: that person's past",
+  "jp": "あの人は、\nすこし『き』が\n  みじかいタイプ。『ことばづかい』に\n『ちゅうい』しないと、おこらせチャイますよ。",
+  "en": "They're a bit short-tempered. If you're not careful with how you talk to them, you'll set them off."
+ },
+ {
+  "id": 232,
+  "context": "Nana: The Tower, reversed, position: that person's present",
+  "jp": "あの人は、\nあなたのコトを、\nひどく『ごかい』\n しているミタイよ。わかってもらうのには『じかん』がカカるワ。",
+  "en": "It seems they've got you all wrong, badly so. It's going to take time to get them to understand you."
+ },
+ {
+  "id": 233,
+  "context": "Nana: The Tower, reversed, position: the near future",
+  "jp": "わるい『あんじ』!\n『大げんか』して、\n『かお』も\nミタクない、なんて\n いってしまいそう。『きず』ついチャゥ。",
+  "en": "A bad sign! A huge fight, and you might end up saying you never want to see their face again. That's going to hurt."
+ },
+ {
+  "id": 234,
+  "context": "Nana: The Tower, reversed, position: advice",
+  "jp": "あの人のコト\n『ごかい』してない?あまり自分に\n『自信』をモチすぎ\n   てもダメよ。\n『けんきょ』にね。",
+  "en": "Are you sure you're not misjudging them? Being too sure of yourself isn't good either. Stay humble, okay?"
+ },
+ {
+  "id": 235,
+  "context": "Nana: The Tower, reversed, position: the people around you",
+  "jp": "『ゥンセイ』が\n   『さがり』ギミこういうトキは、\nなにかとトラブルに\n まきこまれるから\nチュゥイがひつようよ。",
+  "en": "Your luck is on a downswing. At times like this you tend to get dragged into all sorts of trouble, so be careful."
+ },
+ {
+  "id": 236,
+  "context": "Nana: The Tower, reversed, position: love charms and goods",
+  "jp": "『おしゅうじ』の\n  『れんしゅう』。『ヨガ』で\n『さかなのポーズ』、『ゆみのポーズ』を\n     してみる。",
+  "en": "Practice your brush calligraphy. In yoga, try doing the fish pose and the bow pose."
+ },
+ {
+  "id": 237,
+  "context": "Nana: The Tower, reversed, position: where the love is heading",
+  "jp": "あの人に\nほかに『すきな人』が できてしまうカモ。ムリしてツキアおうとすると、ヨケイに\n  きらわれます。",
+  "en": "They might end up falling for someone else. If you force things and try to hang on, they'll only like you less."
+ },
+ {
+  "id": 238,
+  "context": "Nana: The Star, upright, position: that person's past",
+  "jp": "あの人は、\nあなたのコト\nトテモ『いい友人』だと、思ってイルみたい。『こいびと』に\n ナレルといいわね。",
+  "en": "They seem to think of you as a really good friend. Wouldn't it be nice if you could become sweethearts?"
+ },
+ {
+  "id": 239,
+  "context": "Nana: The Star, upright, position: that person's present",
+  "jp": "あの人は、\n『たよりガイ』の\n あるステキな人ね。あなたのコトを\n   『スキ』カモ。ガンバッテ!",
+  "en": "They're a wonderful person, someone you can really count on. And they just might like you. Go for it!"
+ },
+ {
+  "id": 240,
+  "context": "Nana: The Star, upright, position: the near future",
+  "jp": "『こい』の\n ラッキーカードよ!ふたりは\nうまく『つきあって』    いけそうよ。 ガンバッテね。",
+  "en": "It's the lucky card for love! Looks like the two of you can make a relationship work. Give it your best!"
+ },
+ {
+  "id": 241,
+  "context": "Nana: The Star, upright, position: advice",
+  "jp": "ふたりの\n『おつきあい』も\n『しんらい』かんけいカラはじまるワね。\n『やくそく』は\n まもりましょう。",
+  "en": "Any relationship between the two of you has to start from trust. So keep every promise you make, okay?"
+ },
+ {
+  "id": 242,
+  "context": "Nana: The Star, upright, position: the people around you",
+  "jp": "ふたりのコト、\nみんな『おうえん』\n してくれてイルわ。こまったコトは\n『しんゆう』に\n『そうだん』してネ。",
+  "en": "Everyone's rooting for the two of you. If something's troubling you, talk it over with your best friend."
+ },
+ {
+  "id": 243,
+  "context": "Nana: The Star, upright, position: love charms and goods",
+  "jp": "おすすめ\nデートスポットは\n『プラネタリゥム』、ヨルの『てんぼうだい』『しょくぶつエン』\n   などがイイワ。",
+  "en": "Recommended date spots: a planetarium, an observation deck at night, or a botanical garden. Any of those would be good."
+ },
+ {
+  "id": 244,
+  "context": "Nana: The Star, upright, position: where the love is heading",
+  "jp": "『こい』と\n『ゥエディング』の\nラッキーカードよ。\nふたりは、とても\n『おにあい』カップルに、なれるでしょう。",
+  "en": "The lucky card for love and weddings! The two of you can become a couple who are truly made for each other."
+ },
+ {
+  "id": 245,
+  "context": "Nana: The Star, reversed, position: that person's past",
+  "jp": "あの人は、\nとてもステキな人\n  なんだけれど、\n『いそがしい』のカナ?あなたのコト\nかまってくれないカモ。",
+  "en": "They're a really wonderful person, but maybe just too busy? They might not have any attention to spare for you."
+ },
+ {
+  "id": 246,
+  "context": "Nana: The Star, reversed, position: that person's present",
+  "jp": "あの人は、\n『おしゃべり』が、\nトテモたのしい人\n   なんだけれど、チョット『はなし』が 大きすぎないカナ?",
+  "en": "They're really fun to chat with, but don't you think they exaggerate their stories just a bit too much?"
+ },
+ {
+  "id": 247,
+  "context": "Nana: The Star, reversed, position: the near future",
+  "jp": "ふたりで\n『おはなし』しても\nナントナク\n  『つまらない』。あの人のコト\nイヤになっちゃうカモ。",
+  "en": "Even when the two of you talk, it somehow feels dull. You might end up getting sick of them."
+ },
+ {
+  "id": 248,
+  "context": "Nana: The Star, reversed, position: advice",
+  "jp": "あの人のタメに\n『いっしょうけんめい』ツクしても、\nオセッカイな人と\n  思われチャイます。ひとりにしてアゲテね。",
+  "en": "Do everything you can for them, and they'll just think you're a busybody. Give them some space and leave them be."
+ },
+ {
+  "id": 249,
+  "context": "Nana: The Star, reversed, position: the people around you",
+  "jp": "まわりの人がたよりに  なるからといって、なんでも『そうだん』 してはダメですよ。さいしゅうてきに\nきめるのはあなたです。",
+  "en": "Sure, the people around you are reliable, but that doesn't mean you should ask them about everything. The final call is yours."
+ },
+ {
+  "id": 250,
+  "context": "Nana: The Star, reversed, position: love charms and goods",
+  "jp": "ラッキーグッズは、\nあたらしい『カサ』、うすいブルーのシャツ。バイクにのるトキは、ヘルメットを\n  わすれないでね。",
+  "en": "Lucky items: a new umbrella and a pale blue shirt. And when you ride a motorbike, don't forget your helmet!"
+ },
+ {
+  "id": 251,
+  "context": "Nana: The Star, reversed, position: where the love is heading",
+  "jp": "ざんねんダケド\nふたりは\nゥマクいかないカモ。あの人は、あなたの\n『りそう』と、\nスコシちがうミタイね。",
+  "en": "It's a shame, but the two of you may not work out. It seems they're a little different from your ideal."
+ },
+ {
+  "id": 252,
+  "context": "Nana: The Moon, upright, position: that person's past",
+  "jp": "あの人は、\n心がハッキリと\nキマッテいないワ。\nヒョットしたら\nホカにスキな人が、\nいるカモしれないワね。",
+  "en": "Their heart hasn't been clearly made up yet. It's possible that they have someone else they like, you know."
+ },
+ {
+  "id": 253,
+  "context": "Nana: The Moon, upright, position: that person's present",
+  "jp": "あの人は、\n『さびしガリや』で、『あまえんボゥ』ね。すこしイライラ\n   しているから、ひとりにシテあげてね。",
+  "en": "They get lonely easily and crave affection. They're a little on edge right now, so give them some time alone."
+ },
+ {
+  "id": 254,
+  "context": "Nana: The Moon, upright, position: the near future",
+  "jp": "ふたりトモ、\n『りゆう』もなく、\n  『やつあたり』。あなたは、\nほかにスキな人が\n できてしまうカモ。",
+  "en": "You'll both be snapping at each other for no reason at all. And you might end up falling for someone else."
+ },
+ {
+  "id": 255,
+  "context": "Nana: The Moon, upright, position: advice",
+  "jp": "心をシズカにして、\n自分のコトを\n  みつめましょう。あなたは、ホントに\nあの人のコト\n  スキなのかしら?",
+  "en": "Calm your heart and take a good, honest look at yourself. Do you really, truly like that person?"
+ },
+ {
+  "id": 256,
+  "context": "Nana: The Moon, upright, position: the people around you",
+  "jp": "キマッタ『こいびと』のイル人が、ナゼカ\nあなたに、アタック?『もてる』なんて\nチョゥシにのってると、 ヒドイめにあうわ。",
+  "en": "Someone who already has a steady sweetheart is making a move on you? Let it go to your head and you'll get burned."
+ },
+ {
+  "id": 257,
+  "context": "Nana: The Moon, upright, position: love charms and goods",
+  "jp": "あなたにツキをよぶ\nおんがくは\n『やましたたつろう』ドボルザークの\n   『しんセカイ』。ひとりでたのしんでね。",
+  "en": "Music to bring you luck: Tatsuro Yamashita, and Dvorak's New World Symphony. Enjoy them on your own."
+ },
+ {
+  "id": 258,
+  "context": "Nana: The Moon, upright, position: where the love is heading",
+  "jp": "ふたりのおツキアイは、なにかとショゥガイが、    おこりガチ。ざんねんデスガ、\n『わかれ』たホゥが\n    いいかもね。",
+  "en": "Your relationship is likely to hit one obstacle after another. Sorry to say it, but you may be better off breaking up."
+ },
+ {
+  "id": 259,
+  "context": "Nana: The Moon, reversed, position: that person's past",
+  "jp": "あの人が、\nボヤっとしているトキ、『むかし』のコト\n思いだしてイルみたい。すこしずつ、あなたのコト、みてくれるカナ?",
+  "en": "When they're staring off into space, they seem to be remembering the past. Will they slowly start to see you, I wonder?"
+ },
+ {
+  "id": 260,
+  "context": "Nana: The Moon, reversed, position: that person's present",
+  "jp": "あの人は、すこし\n  『しんけいしつ』。あなたのコト\n『き』にしてイルけど、どうしてイイカ\nまよってルみたいね。",
+  "en": "They're a little high-strung. They've got you on their mind, but they seem unsure what to do about it."
+ },
+ {
+  "id": 261,
+  "context": "Nana: The Moon, reversed, position: the near future",
+  "jp": "『いいフンイキ』に\n   なるのだけど、それイジョゥに\nススマない『ふたり』。あせらないで\nゆっくり、ゆっくり。",
+  "en": "The mood between you gets nice, but it never goes any further than that. Don't rush. Slowly, slowly does it."
+ },
+ {
+  "id": 262,
+  "context": "Nana: The Moon, reversed, position: advice",
+  "jp": "すこしずつ\n『こい』のチャンスが、  ちかづいてくるワ。それまでは、\n アセラないで\n自分をミガキましょう。",
+  "en": "Bit by bit, a chance at love is drawing closer. Until then, don't get impatient. Work on being your best self."
+ },
+ {
+  "id": 263,
+  "context": "Nana: The Moon, reversed, position: the people around you",
+  "jp": "まわりの友人の\n アドバイスを\n 『すなお』に\n   ききましょう。あなたのコト、とても『しんぱい』してるわ。",
+  "en": "Listen to your friends' advice with an open mind. They're really worried about you, you know."
+ },
+ {
+  "id": 264,
+  "context": "Nana: The Moon, reversed, position: love charms and goods",
+  "jp": "あの人と\nツキあうトキは、\n  『かぞく』の人や友だちに\n心をクバるコトを\nワスレないようにネ。",
+  "en": "When you're going out with them, don't forget to show some consideration for your family and friends, too."
+ },
+ {
+  "id": 265,
+  "context": "Nana: The Moon, reversed, position: where the love is heading",
+  "jp": "『こいのゆめ』ばかりオイかけても、ダメ。自分の心を\nシッカリみつめないと、  ふたりは\nゥマクいきませんね。",
+  "en": "Chasing dreams of love alone won't do it. Unless you take a good hard look at your own heart, you two won't work out."
+ },
+ {
+  "id": 266,
+  "context": "Nana: The Sun, upright, position: that person's past",
+  "jp": "あの人は、\nまわりの人のキモチをあかるくデキル人。\n『にんき』ものカナ?自分のカンガエも\n ハッキリしてるワ。",
+  "en": "They can brighten the mood of everyone around them. Popular, I'd bet? They know their own mind clearly, too."
+ },
+ {
+  "id": 267,
+  "context": "Nana: The Sun, upright, position: that person's present",
+  "jp": "あの人は、\n思ったコトをスグ\n 『こうどう』に\n  ゥツすタイプね。『じょうねつ』テキな  トコロもあるワ。",
+  "en": "They're the type who acts on a thought the moment they have it. There's a passionate side to them, too."
+ },
+ {
+  "id": 268,
+  "context": "Nana: The Sun, upright, position: the near future",
+  "jp": "あの人が、トツゼン\n デートに\nサソってくれるカモ!ふたりのイキも\n  ピッタリあうわ。『たのしみ』にシテね。",
+  "en": "They might ask you out on a date out of the blue! The two of you will be perfectly in sync. Look forward to it!"
+ },
+ {
+  "id": 269,
+  "context": "Nana: The Sun, upright, position: advice",
+  "jp": "自分のカンガエは、\nすぐに、『じっこう』    してみてネ。ゥジゥジ\n 『なやん』でイルとあの人にキラわれるワ。",
+  "en": "When you have an idea, act on it right away. If you dither and fret about it, you'll put them off."
+ },
+ {
+  "id": 270,
+  "context": "Nana: The Sun, upright, position: the people around you",
+  "jp": "まわりの人が、\n『たのしい』キモチで  いられるヨゥに\nカンガエてあげてね。みんな、あなたのコト『たより』にしてるわ。",
+  "en": "Think about how to keep the people around you in good spirits. Everyone's counting on you, you know."
+ },
+ {
+  "id": 271,
+  "context": "Nana: The Sun, upright, position: love charms and goods",
+  "jp": "ラッキーな\n デートスポットは、『ゆうえんち』よ。\n『ジウットコースター』『かんらんしゃ』\nなどで、たのしんでネ。",
+  "en": "Your lucky date spot is the amusement park. Have fun on the roller coaster and the Ferris wheel!"
+ },
+ {
+  "id": 272,
+  "context": "Nana: The Sun, upright, position: where the love is heading",
+  "jp": "『ゥエディング』の\n  ラッキーカード!ふたりの\n  『きょうつう』の『もくひょう』を\nもって、レッツゴー!",
+  "en": "It's the lucky wedding card! Find a goal the two of you can share, and then... let's go!"
+ },
+ {
+  "id": 273,
+  "context": "Nana: The Sun, reversed, position: that person's past",
+  "jp": "あの人、すこし\n 『つかれ』ギミね。ドンナに『たのしい』おはなしをシテも\n 『うわ』のソラ\n  だったりしてネ。",
+  "en": "They seem a little worn out. No matter how fun the conversation, their mind is likely somewhere else entirely."
+ },
+ {
+  "id": 274,
+  "context": "Nana: The Sun, reversed, position: that person's present",
+  "jp": "あの人は、\n なにもカモに\n  『いやけ』が\n  サシてるカンジ。イマは、ナニを\n  イッテもダメね。",
+  "en": "They seem fed up with just about everything. Right now, nothing you say is going to get through."
+ },
+ {
+  "id": 275,
+  "context": "Nana: The Sun, reversed, position: the near future",
+  "jp": "ふたりでイテも\nチットモ\n『たのしく』ナイわ。『あい』が\nサメてきたのカシラ?『ふきつ』なアンジね。",
+  "en": "Even when you're together, it's no fun at all. Could the love be cooling off? It's not a good sign."
+ },
+ {
+  "id": 276,
+  "context": "Nana: The Sun, reversed, position: advice",
+  "jp": "『れんあいゥン』が\n    さがりギミ。『でんわ』をしても、『てがみ』をカイても、あなたの心が、なぜか  ツタわらないワ。",
+  "en": "Your luck in love is on the wane. Call them, write letters, whatever you do, somehow your heart just won't get through."
+ },
+ {
+  "id": 277,
+  "context": "Nana: The Sun, reversed, position: the people around you",
+  "jp": "まわりの人が\nふたりの\n 『おつきあい』に、 ハンタイしそうね。つきあっていると\n友人がなくなるカモ。",
+  "en": "The people around you are likely to oppose your relationship. Keep going out with them and you might lose your friends."
+ },
+ {
+  "id": 278,
+  "context": "Nana: The Sun, reversed, position: love charms and goods",
+  "jp": "ごぜん1じ、ピンクのロゥソクをともして、あの人の\nナマエを12かい、\n自分のナマエを6かい、    つぶやく。",
+  "en": "At 1 a.m., light a pink candle and whisper their name 12 times, then your own name 6 times."
+ },
+ {
+  "id": 279,
+  "context": "Nana: The Sun, reversed, position: where the love is heading",
+  "jp": "ざんねんダケど、\nふたりの『こい』は、  ミノらないカモ。ムリに\nおツキアイすると、\nもっとツラクなります。",
+  "en": "It's a shame, but your love may not bear fruit. If you force a relationship, it'll only hurt more."
+ },
+ {
+  "id": 280,
+  "context": "Nana: Judgement, upright, position: that person's past",
+  "jp": "ちょっと\nおハナシしたダケでも、あの人の、\n『せいかく』のヨサは   ピンとくるわ。  ステキな人ね。",
+  "en": "Even from a short chat, you can tell right away what a good nature they have. A wonderful person."
+ },
+ {
+  "id": 281,
+  "context": "Nana: Judgement, upright, position: that person's present",
+  "jp": "あの人は、\n   心ヒソカに\nあなたのコトを\n 思っているミタイ。オモイきって\nあなたからアタック!",
+  "en": "Deep in their heart, it seems they're secretly thinking about you. Take courage and make the first move!"
+ },
+ {
+  "id": 282,
+  "context": "Nana: Judgement, upright, position: the near future",
+  "jp": "むかし、わかれた\n『あの人』に\nバッタリであうカモ!『えがお』でアイサツ!こんどはゥマク\n  つきあえるカモね。",
+  "en": "You might bump into an old flame you split up with long ago! Greet them with a smile! This time it could work out."
+ },
+ {
+  "id": 283,
+  "context": "Nana: Judgement, upright, position: advice",
+  "jp": "『なかなおり』の\n     チャンス!むかし\n『ケンカ』した人に、 デンワしてみたら? うまくイクかもよ。",
+  "en": "A chance to make up! Why not call someone you had a falling-out with in the past? It just might go well."
+ },
+ {
+  "id": 284,
+  "context": "Nana: Judgement, upright, position: the people around you",
+  "jp": "みんなが\n『おつきあい』の\n  オゥエンを\n   してくれるワ。あなたも『キモチ』をきめて、アタック!",
+  "en": "Everyone's going to cheer your relationship on. So make up your own mind, and make your move!"
+ },
+ {
+  "id": 285,
+  "context": "Nana: Judgement, upright, position: love charms and goods",
+  "jp": "『どうそうカイ』には、   かならず\n『かお』をだすコト。おヒガンに\n『おはかマイリ』に\n   いってみたら?",
+  "en": "Always show your face at class reunions. And how about visiting the family graves at the equinox?"
+ },
+ {
+  "id": 286,
+  "context": "Nana: Judgement, upright, position: where the love is heading",
+  "jp": "『こい』と\n『ゥエディング』の\n  ラッキーカード!イマまで、ギクシャクしていた『ふたり』も、シンパイいらないワ。",
+  "en": "The lucky card for love and weddings! Even if things have been awkward between you until now, there's nothing to worry about."
+ },
+ {
+  "id": 287,
+  "context": "Nana: Judgement, reversed, position: that person's past",
+  "jp": "あの人、トテモ\n 『すてき』な人ね。でも、ホカに\nスキな人がイルかも?ソッと友人に\n キイテみましょう。",
+  "en": "They're a really wonderful person. But might they have someone else they like? Quietly ask a friend and find out."
+ },
+ {
+  "id": 288,
+  "context": "Nana: Judgement, reversed, position: that person's present",
+  "jp": "あの人は、\nあなたのコトより、\n  『ホカ』のコトに『むちゅう』に\n なっているミタイ。さびしいけど、ガマン。",
+  "en": "It seems they're more wrapped up in other things than in you right now. It's lonely, but hang in there."
+ },
+ {
+  "id": 289,
+  "context": "Nana: Judgement, reversed, position: the near future",
+  "jp": "あの人には、\n『すき』な人が\nイルかも、シレないワ。ツラくても\nあまり、『ふかおい』しないホゥがイイわよ。",
+  "en": "They may well have someone else they like. It hurts, but you're better off not chasing after them too hard."
+ },
+ {
+  "id": 290,
+  "context": "Nana: Judgement, reversed, position: advice",
+  "jp": "『いっしょうけんめい』あの人のタメに\n ツクシても、心が\nうまくツタわりません。『うん』にミハなされ   たのカシラ?",
+  "en": "No matter how hard you try for them, your heart just isn't getting through. Has luck deserted you, I wonder?"
+ },
+ {
+  "id": 291,
+  "context": "Nana: Judgement, reversed, position: the people around you",
+  "jp": "まわりの人は、\nふたりのことに\n 『ひていテキ』よ。友人にホントのことをいわれても、\n  おこってはダメ。",
+  "en": "The people around you feel negative about the two of you. Even when a friend tells you the hard truth, don't get angry."
+ },
+ {
+  "id": 292,
+  "context": "Nana: Judgement, reversed, position: love charms and goods",
+  "jp": "アサの7じと、\n  ヨルの11じに\nあなたの\n   『のぞみ』を\n  20カイ\n心のナカでつぶやく。",
+  "en": "At 7 in the morning and 11 at night, whisper your wish 20 times inside your heart."
+ },
+ {
+  "id": 293,
+  "context": "Nana: Judgement, reversed, position: where the love is heading",
+  "jp": "あの人との『こい』はゥマクいかないカモ。『おさなナジミ』とは、 『き』があうケレド『こいびと』には、\n   ならないミタイ。",
+  "en": "Love with them might not work out. You get along great with a childhood friend, but it seems you won't become sweethearts."
+ },
+ {
+  "id": 294,
+  "context": "Nana: The World, upright, position: that person's past",
+  "jp": "あの人は、\nあなたの『りそう』の  タイプかしら?\nうまく『おつきあい』 できるとイイワね。  ガンバって!",
+  "en": "Is this person your ideal type, I wonder? It'd be great if you two could make a relationship work. Go for it!"
+ },
+ {
+  "id": 295,
+  "context": "Nana: The World, upright, position: that person's present",
+  "jp": "あの人も、\nあなたのコトを\n 思っているミタイ。あなたから\nアタックしてみても\n     いいカナ?",
+  "en": "It seems they've been thinking of you, too. Maybe it's fine for you to make the first move?"
+ },
+ {
+  "id": 296,
+  "context": "Nana: The World, upright, position: the near future",
+  "jp": "『こい』の\n ラッキーチャンス!『たのしい』デートが    できるカモ。どこにイクか\nカンガエておいてね。",
+  "en": "A lucky chance for love! You may get to go on a really fun date. Better start thinking about where to go."
+ },
+ {
+  "id": 297,
+  "context": "Nana: The World, upright, position: advice",
+  "jp": "『こい』の\n ラッキーチャンス!思いがけないトコロでバッタリ『あの人』と であったりシテ、\nデートに・・ナンテね。",
+  "en": "A lucky chance for love! You might bump into the one you like somewhere unexpected, and then, a date... maybe!"
+ },
+ {
+  "id": 298,
+  "context": "Nana: The World, upright, position: the people around you",
+  "jp": "『しょうらい』の\n  モクヒョゥを\n   キチっときめて『おつきあい』してネ。みんなに『しゅくふく』  してもらえるわ!",
+  "en": "Decide firmly on your goals for the future, and then go out together. Everyone will give the two of you their blessing!"
+ },
+ {
+  "id": 299,
+  "context": "Nana: The World, upright, position: love charms and goods",
+  "jp": "あの人への\nラッキープレゼント!自分のスキな\n『きょく』ばかりの\nオリジナルカセットを つくってあげてネ。",
+  "en": "A lucky present for the one you like! Make them an original cassette tape of all your favorite songs."
+ },
+ {
+  "id": 300,
+  "context": "Nana: The World, upright, position: where the love is heading",
+  "jp": "おめでとう!\n『ゥエディング』の\n  ラッキーカード!りそうテキな\n   カップルの\n 『たんじょう』ね。",
+  "en": "Congratulations! It's the lucky card for weddings! This is the birth of a truly ideal couple."
+ },
+ {
+  "id": 301,
+  "context": "Nana: The World, reversed, position: that person's past",
+  "jp": "あの人、あなたの\n『りそう』のタイプ\n かもしれないケド、ホントに\nピッタリの人かしら?かんがえたホゥが・・",
+  "en": "They may be your ideal type, but are they really the right person for you? Better think it over..."
+ },
+ {
+  "id": 302,
+  "context": "Nana: The World, reversed, position: that person's present",
+  "jp": "あの人の心は\n  『ホカ』の人に\nゥバワれてイルかも。あなたの\n 『かた思い』かな?すこし、サビしいね。",
+  "en": "Someone else may have stolen their heart. Is this a one-sided love? That's a bit sad, isn't it."
+ },
+ {
+  "id": 303,
+  "context": "Nana: The World, reversed, position: the near future",
+  "jp": "デートの『やくそく』    をシテも、\nなにカシラ\nジャマがハイって、\n ふたりダケに\n  なれないカモ。",
+  "en": "Even if you make a date, something always seems to get in the way, and you can't get a moment alone together."
+ },
+ {
+  "id": 304,
+  "context": "Nana: The World, reversed, position: advice",
+  "jp": "あの人のコト、\nオモイつづけるコトに、『つかれて』\n    しまいそう。すこし、『きぶん』を カエテみましょう。",
+  "en": "You're about to wear yourself out pining for them. Try changing things up a little and give yourself a break."
+ },
+ {
+  "id": 305,
+  "context": "Nana: The World, reversed, position: the people around you",
+  "jp": "ふたりとは\nカンケイないトコロで『しょうがい』が、\n おきてしまいそう!ふたりのキョゥツゥの友人がケンカするカモ?",
+  "en": "Trouble is brewing somewhere that has nothing to do with the two of you! Maybe a fight between your mutual friends?"
+ },
+ {
+  "id": 306,
+  "context": "Nana: The World, reversed, position: love charms and goods",
+  "jp": "ラッキーファッション!『みどり』いろを\n  ちゅうしんに\nコーディネイトするか、『したぎ』に『みどり』のリボンをつける。",
+  "en": "Lucky fashion! Build your outfit around the color green, or tie a green ribbon onto your underwear."
+ },
+ {
+  "id": 307,
+  "context": "Nana: The World, reversed, position: where the love is heading",
+  "jp": "このまま\n『あなた』から\nなにも『こうどう』を  オコサなければ、『こい』はシゼンに\nおわってしまうカモ。",
+  "en": "If you keep on like this and don't take any action yourself, this love might just quietly come to an end on its own."
+ }
+]

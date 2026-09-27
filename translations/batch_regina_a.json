@@ -1,0 +1,926 @@
+[
+ {
+  "id": 308,
+  "context": "Regina: The Fool, upright, position: your past",
+  "jp": "あなたは\n『こうきしん』が\n     イッパイ!でも、すこし\nガマンすることも\n    ヒツヨゥよ。",
+  "en": "You are full of curiosity! Still, there are times when a little patience is called for as well."
+ },
+ {
+  "id": 309,
+  "context": "Regina: The Fool, upright, position: the present",
+  "jp": "『ゼロ』からの\n  スタートを\n  イミしています。あたらしいコトを\nカンガエている人に、   チャンスあり!",
+  "en": "This card means a start from zero. If you are considering something new, the chance is here. Take it."
+ },
+ {
+  "id": 310,
+  "context": "Regina: The Fool, upright, position: the near future",
+  "jp": "なにゴトにも\n『しゅうちゅう』\n できないアンジ。\n『きぶんてんかん』が  ひつようかしら?『たびだち』チャンス!",
+  "en": "A sign that you cannot concentrate on anything. Perhaps a change of pace is in order? A chance to set out on a journey awaits."
+ },
+ {
+  "id": 311,
+  "context": "Regina: The Fool, upright, position: advice",
+  "jp": "モクヒョゥをキメて、ひとつのコトに\n『しゅうちゅう』\n    しましょう。プランをキチンと\nたてるとゥマクいくわ。",
+  "en": "Set a goal and concentrate on one thing. Draw up a proper plan and things will go well for you."
+ },
+ {
+  "id": 312,
+  "context": "Regina: The Fool, upright, position: your situation",
+  "jp": "あなた、とても\n 『ユカイ』な人ね。『もくひょう』を\nひとつにキメると、\nまわりもオゥエン\n   してくれるワ。",
+  "en": "You are a very cheerful person. Settle on a single goal and those around you will support you as well."
+ },
+ {
+  "id": 313,
+  "context": "Regina: The Fool, upright, position: the right work for you",
+  "jp": "あなたは\n『コセイてき』な人。ものゴトの『キソ』をタイセツにすること!『たび』にカンする\n  シゴトが吉です。",
+  "en": "You are a person of strong individuality. Value the basics of everything you do. Work related to travel is lucky for you."
+ },
+ {
+  "id": 314,
+  "context": "Regina: The Fool, upright, position: final judgement",
+  "jp": "あなたは、『ゆめ』を おいかけるタイプ。スコシ『あしもと』を  かためましょう。『もくひょう』を\nキメるとゥマクいくワ!",
+  "en": "You are the type who chases dreams. Firm up your footing a little. Decide on a goal and things will go well."
+ },
+ {
+  "id": 315,
+  "context": "Regina: The Fool, reversed, position: your past",
+  "jp": "『きぶんてんかん』を    しましょう。むかしのコトに\n   コダわらずに、あたらしいコトに\n メをむけましょう。",
+  "en": "A change of pace is needed. Do not dwell on the past; turn your eyes toward something new instead."
+ },
+ {
+  "id": 316,
+  "context": "Regina: The Fool, reversed, position: the present",
+  "jp": "『ゼロ』からの\n  『しゅっぱつ』を心がけましょう。\n自分のペースで\n   ものゴトを\n すすめましょうね。",
+  "en": "Set your mind on a fresh start from zero. Take things forward at your own pace, one step at a time."
+ },
+ {
+  "id": 317,
+  "context": "Regina: The Fool, reversed, position: the near future",
+  "jp": "あなたの『まよい』が    たちきれる、ラッキーなアンジ。\nなくしたモノが\nデテきたり、ふるい\n友人にアエルことも!",
+  "en": "A lucky sign: your doubts will clear away. Something you lost may turn up, and you may even meet an old friend."
+ },
+ {
+  "id": 318,
+  "context": "Regina: The Fool, reversed, position: advice",
+  "jp": "『こせいてき』で\n 『こうきしん』が\n    イッパイね。アマリよくばらないで、『もくひょう』を\nヒトツにしぼること。",
+  "en": "You are unique and full of curiosity. Do not be too greedy, though; narrow your goals down to one."
+ },
+ {
+  "id": 319,
+  "context": "Regina: The Fool, reversed, position: your situation",
+  "jp": "あなたは\n『やさしい』人なので、まわりの人のペースに ふりまわされガチ。自分のペースを\n    タイセツにね。",
+  "en": "You are a kind person, so you tend to get swept along by other people's pace. Value your own pace."
+ },
+ {
+  "id": 320,
+  "context": "Regina: The Fool, reversed, position: the right work for you",
+  "jp": "あなたには、\n自分のペースで\n 『しごと』がデキる『しょくば』がイイわ。『けんさギシ』とか\n  『やくざいし』ね。",
+  "en": "A workplace where you can work at your own pace suits you. A laboratory technician or a pharmacist, for example."
+ },
+ {
+  "id": 321,
+  "context": "Regina: The Fool, reversed, position: final judgement",
+  "jp": "『せっきょくてき』に  チャレンジすると『うんせい』が\n    ひらけるワ!『もくひょう』を\nキメて、レッツゴー!",
+  "en": "Take on challenges with energy and your fortune will open up. Decide on your goal and go for it!"
+ },
+ {
+  "id": 322,
+  "context": "Regina: The Magician, upright, position: your past",
+  "jp": "あたらしいことを\n  はじめるトキは、『ふあん』がいっぱい!かんがえこまないで、  自分に自信を\n   もちましょう。",
+  "en": "Starting something new brings plenty of worry. Do not brood over it; have confidence in yourself."
+ },
+ {
+  "id": 323,
+  "context": "Regina: The Magician, upright, position: the present",
+  "jp": "アイディアに\n   めぐまれる\n  ラッキーカード!友人と『せんせい』にアドバイスをもらうと、  うまくいくわよ。",
+  "en": "A lucky card that blesses you with ideas. Seek advice from friends and teachers and things will go well."
+ },
+ {
+  "id": 324,
+  "context": "Regina: The Magician, upright, position: the near future",
+  "jp": "ラッキーカードよ。\nチャンスもいっぱい!『せっきょくてき』に チャレンジすると、なにごとも\n  うまくいくわね。",
+  "en": "A lucky card with chances aplenty. Take on challenges with energy and everything will go well."
+ },
+ {
+  "id": 325,
+  "context": "Regina: The Magician, upright, position: advice",
+  "jp": "キブンテンカンが\n   ひつようです。『りょこう』に\n でかけてもイイし、くちべに、ネクタイを  かえてもいいわ。",
+  "en": "A change of pace is needed. You could take a trip, or simply change your lipstick or your necktie."
+ },
+ {
+  "id": 326,
+  "context": "Regina: The Magician, upright, position: your situation",
+  "jp": "あなたは、\n ユーモアがあって、まわりの人を\n たのしませるタイプ。友人から『たより』に    されているワ。",
+  "en": "You have a good sense of humor and keep those around you entertained. Your friends rely on you."
+ },
+ {
+  "id": 327,
+  "context": "Regina: The Magician, upright, position: the right work for you",
+  "jp": "『げいじゅつ』テキな  センスをいかして、あたらしいブンヤに\nチャレンジしましょう。『シンブンきしゃ』や『てんじょういん』吉!",
+  "en": "Put your artistic sense to use and take on a new field. Newspaper reporter or tour guide is lucky for you."
+ },
+ {
+  "id": 328,
+  "context": "Regina: The Magician, upright, position: final judgement",
+  "jp": "ラッキーカード!\n せっきょくテキに\nチャレンジしてみてネ。自分の『いし』を\n つよくもつことが\n   ポイントです。",
+  "en": "A lucky card. Go ahead and take on challenges with energy. The key is to hold firmly to your own will."
+ },
+ {
+  "id": 329,
+  "context": "Regina: The Magician, reversed, position: your past",
+  "jp": "なぜか『やるキ』が、  なくなったり\n自信をうしないそう。クヨクヨしないで、\n 自分のことを\nみつめなおしましょう。",
+  "en": "For some reason you may lose your drive or your confidence. Do not fret over it; take a fresh look at yourself."
+ },
+ {
+  "id": 330,
+  "context": "Regina: The Magician, reversed, position: the present",
+  "jp": "『つかれて』いるかも    しれません。『あせり』はキンモツ!友人にアマエないで、自分にきびしく\n    しましょう。",
+  "en": "You may be tired. Haste is your enemy now. Do not lean on your friends; be strict with yourself."
+ },
+ {
+  "id": 331,
+  "context": "Regina: The Magician, reversed, position: the near future",
+  "jp": "自分だけがタヨリです。『タニンまかせ』に\n    していると、シッパイしてしまう\n   カモしれません。 友人も『たにん』よ。",
+  "en": "The only one you can rely on is yourself. Leave things to others and you may well fail. Friends count as others, too."
+ },
+ {
+  "id": 332,
+  "context": "Regina: The Magician, reversed, position: advice",
+  "jp": "あなたは、すこし\n『シンケイシツ』に\n なっていませんか?『き』をラクに、\n  あらたなキモチでやりなおしましょう!",
+  "en": "Have you become a little high-strung lately? Relax, and start over with a fresh frame of mind."
+ },
+ {
+  "id": 333,
+  "context": "Regina: The Magician, reversed, position: your situation",
+  "jp": "まわりの人に\n そうだんしても、\nゥマクいかないトキ。自分だけで\nできるホゥホゥを\n かんがえましょう。",
+  "en": "A time when consulting those around you does not help. Think of a way you can manage on your own."
+ },
+ {
+  "id": 334,
+  "context": "Regina: The Magician, reversed, position: the right work for you",
+  "jp": "ぎんこういんや\n  こうむいんなど\n『けんじつ』な\nしごとがあっているわ。『しゅみ』をしごとに   しないように。",
+  "en": "Steady work such as a bank clerk or a civil servant suits you. Do not turn your hobby into your job."
+ },
+ {
+  "id": 335,
+  "context": "Regina: The Magician, reversed, position: final judgement",
+  "jp": "なにゴトにも\n   『いよく』が\nなくなってしまうカモ。でも自分しか\n たよりにならないわ。   ガンバって!",
+  "en": "You may lose your drive for everything. Even so, you are the only one you can rely on. Keep going."
+ },
+ {
+  "id": 336,
+  "context": "Regina: The High Priestess, upright, position: your past",
+  "jp": "あなたはチセイてきで、『じゅんすい』な\n    タイプね。\nまじめすぎて、\n シンケイシツな\n ところがあるカモ?",
+  "en": "You are an intelligent and pure-hearted type. Perhaps a little too serious, with a nervous streak?"
+ },
+ {
+  "id": 337,
+  "context": "Regina: The High Priestess, upright, position: the present",
+  "jp": "ひとつのコトだけを\n    ガンバルと、よいケッカがでます。『すうジ』にカンする   コトが吉です。  ガンバッテね。",
+  "en": "Work hard at just one thing and good results will follow. Anything involving numbers is lucky. Do your best."
+ },
+ {
+  "id": 338,
+  "context": "Regina: The High Priestess, upright, position: the near future",
+  "jp": "ガンバリヤさんには、 ラッキーなアンジ!『けいかく』テキに、コツコツすすめると\n   大セイコゥ!\nチャンスをいかしてね。",
+  "en": "A lucky sign for hard workers. Proceed steadily according to plan and great success awaits. Make the most of it."
+ },
+ {
+  "id": 339,
+  "context": "Regina: The High Priestess, upright, position: advice",
+  "jp": "オシャレにも\nキョゥミをもってね。あなたには、\n『じょうひん』で\n『かわいい』ものが、    ピッタリ!",
+  "en": "Take an interest in fashion as well. Refined, pretty things are the perfect match for someone like you."
+ },
+ {
+  "id": 340,
+  "context": "Regina: The High Priestess, upright, position: your situation",
+  "jp": "友人からタヨリに\n  されるタイプね。つめたい人だと\nゴカイされないように、『えがお』を\n  わすれないで・・",
+  "en": "You are the type your friends rely on. So as not to be mistaken for cold, do not forget to smile."
+ },
+ {
+  "id": 341,
+  "context": "Regina: The High Priestess, upright, position: the right work for you",
+  "jp": "おしゃべりは\n    ゆっくりと、『えがお』を\n わすれないようにネ。『しかぎこうし』や、『エンジニア』が吉ね。",
+  "en": "Speak slowly, and do not forget to smile. A dental technician or an engineer would be lucky for you."
+ },
+ {
+  "id": 342,
+  "context": "Regina: The High Priestess, upright, position: final judgement",
+  "jp": "ラッキーチャンスの\n    カードです。『としうえの人』に、アドバイスして\n     もらうと\nキットうまくいくわ。",
+  "en": "A card of lucky chances. Ask an older person for their advice and things are sure to go well for you."
+ },
+ {
+  "id": 343,
+  "context": "Regina: The High Priestess, reversed, position: your past",
+  "jp": "ほかの人からゴカイをされるキケンあり!\nあなたには、\n 『さいのう』が\n  あるのだから、\nすこし、ヒカエメにね。",
+  "en": "There is a risk of being misunderstood by others. You have talent, so be a little more modest."
+ },
+ {
+  "id": 344,
+  "context": "Regina: The High Priestess, reversed, position: the present",
+  "jp": "『もくひょう』が\n自分の『ちから』に\nアッテいるかしら?\nだれかに\nジャマされるコトも\nあるから、チュゥイ!",
+  "en": "Does your goal match your abilities? Someone may also try to get in your way, so be careful."
+ },
+ {
+  "id": 345,
+  "context": "Regina: The High Priestess, reversed, position: the near future",
+  "jp": "『やまかん』は\n    ハズレます。キソをタイセツにしてじゅうぶん\n『したしらべ』をして   おきましょう。",
+  "en": "Guesswork will miss the mark. Value the basics and be sure to do thorough groundwork beforehand."
+ },
+ {
+  "id": 346,
+  "context": "Regina: The High Priestess, reversed, position: advice",
+  "jp": "『じかん』をかけて、『きそ』から、\nやりなおしたほうが\n    いいカモ?\nアセリぎみでは\n   ありませんか。",
+  "en": "It may be better to take your time and start over from the basics. Are you perhaps a little impatient?"
+ },
+ {
+  "id": 347,
+  "context": "Regina: The High Priestess, reversed, position: your situation",
+  "jp": "あなたは、\n『ガンバリや』ですね。『かんぺき』を\n   めざしスギると、まわりの人が\nつかれてしまいますよ。",
+  "en": "You are a hard worker. Aim too hard for perfection, though, and those around you will grow weary."
+ },
+ {
+  "id": 348,
+  "context": "Regina: The High Priestess, reversed, position: the right work for you",
+  "jp": "あなたは、まわりからどう思われているかを、かんがえすぎるタイプ。『ぼき』や『いりょう』かんけいの『ぎじゅつ』を、みにつけましょう。",
+  "en": "You are the type who worries too much about what others think of you. Acquire skills in bookkeeping or medical work."
+ },
+ {
+  "id": 349,
+  "context": "Regina: The High Priestess, reversed, position: final judgement",
+  "jp": "すこしムリを\nしすぎていませんか?チョットやすんで、\nまわりの人のイケンを   きいてみたら?『あせり』はキンモツ!",
+  "en": "Are you pushing yourself too hard? Rest a little and try listening to the opinions of others. Haste is your enemy."
+ },
+ {
+  "id": 350,
+  "context": "Regina: The Empress, upright, position: your past",
+  "jp": "あなたは、\nトテモやさしいので、 こまっている人を\nほおっておけません。あまりセワを\nやきすぎないように。",
+  "en": "You are very kind and cannot leave someone in trouble alone. Just take care not to fuss over people too much."
+ },
+ {
+  "id": 351,
+  "context": "Regina: The Empress, upright, position: the present",
+  "jp": "ラッキーなアンジよ。どりょくいじょうの\n  『よいケッカ』が!『やまかん』も\n    バッチリよ。チャンスをいかしてネ。",
+  "en": "A lucky sign. Good results beyond your efforts are coming, and your hunches are spot on. Make the most of the chance."
+ },
+ {
+  "id": 352,
+  "context": "Regina: The Empress, upright, position: the near future",
+  "jp": "『のぞみ』がかなう、ラッキーなカードです。『ちょうし』にのるとまわりから\nうらまれてしまうカモ。  ホドホドに・・",
+  "en": "A lucky card: your wish will come true. Get carried away, though, and others may resent you. Keep it in moderation."
+ },
+ {
+  "id": 353,
+  "context": "Regina: The Empress, upright, position: advice",
+  "jp": "自信をもって、\n チャレンジしてネ。きたいイジョゥの\n『せいか』があがるワ。おかあさんに\nそうだんしてみてネ。",
+  "en": "Have confidence and take on the challenge. Results beyond your expectations await. Try asking your mother for advice."
+ },
+ {
+  "id": 354,
+  "context": "Regina: The Empress, upright, position: your situation",
+  "jp": "まわりの人のコトで、いそがしくなりそう!人のメンドゥを\n  みているうちに、あなたに『ツキ』が\n まわってきますよ。",
+  "en": "Other people's affairs will keep you busy. While you are looking after them, luck will come around to you."
+ },
+ {
+  "id": 355,
+  "context": "Regina: The Empress, upright, position: the right work for you",
+  "jp": "あなたは、やさしくてまわりの人の『せわ』をよくする人ですね。『コンサルタント』、『ほぼさん』などが\n    ピッタリよ!",
+  "en": "You are kind and take good care of those around you. Consultant or nursery school teacher would suit you perfectly."
+ },
+ {
+  "id": 356,
+  "context": "Regina: The Empress, upright, position: final judgement",
+  "jp": "ラッキーカードよ。\nゆったりと\n コゥドゥすると\nよい『けっか』が!\n『たべすぎ』には\nチュゥイしましょう。",
+  "en": "A lucky card. Act calmly and without haste and good results will follow. Be careful not to overeat."
+ },
+ {
+  "id": 357,
+  "context": "Regina: The Empress, reversed, position: your past",
+  "jp": "あなたのキモチが、\n  つたわらなくて、ゴカイされて\n    しまいそう。友人と口ゲンカを\n   しないことよ。",
+  "en": "Your feelings do not get through, and you may be misunderstood. Do not get into arguments with your friends."
+ },
+ {
+  "id": 358,
+  "context": "Regina: The Empress, reversed, position: the present",
+  "jp": "『ゴカイをされる』\n という、アンジよ。    レイセイに!『としうえ』のオトコの人に、そうだんして みるといいですよ!",
+  "en": "A sign that you will be misunderstood. Stay calm. It would be good to consult an older man for advice."
+ },
+ {
+  "id": 359,
+  "context": "Regina: The Empress, reversed, position: the near future",
+  "jp": "としうえの女の人と\nゥマクいかないカモ?れいせいに\n 自分をみつめてネ。『けんこう』チウックも、わすれないでネ。",
+  "en": "Things may not go well with an older woman. Look at yourself calmly. Do not forget a health check, either."
+ },
+ {
+  "id": 360,
+  "context": "Regina: The Empress, reversed, position: advice",
+  "jp": "まわりの人と\nギクシャクすることが    あるかもよ。『としした』の人の\n  いうことに、\nふりまわされないで。",
+  "en": "There may be some friction with those around you. Do not let what younger people say push you around."
+ },
+ {
+  "id": 361,
+  "context": "Regina: The Empress, reversed, position: your situation",
+  "jp": "『じつりょく』が、\nみとめられないかも。アピールのほうほうを、   くふうして、\n『もくひょう』を\n  しぼるといいわ。",
+  "en": "Your true ability may go unrecognized. Find a better way to present yourself, and narrow your goals."
+ },
+ {
+  "id": 362,
+  "context": "Regina: The Empress, reversed, position: the right work for you",
+  "jp": "まわりのイケンを\nもうスコシきくように    しましょう。おんがくやデザイン、カイガにカンすること   がピッタリね。",
+  "en": "Try to listen a little more to the opinions of others. Music, design or painting would suit you perfectly."
+ },
+ {
+  "id": 363,
+  "context": "Regina: The Empress, reversed, position: final judgement",
+  "jp": "まわりとゥマクいか\nないことがあるカモ。あんまりシンケイシツにならずにドーンと\n  かまえましょう。『たべすぎ』チュゥイ!",
+  "en": "Things may not go smoothly with those around you. Do not let your nerves get the better of you; take things in stride. Beware of overeating."
+ },
+ {
+  "id": 364,
+  "context": "Regina: The Emperor, upright, position: your past",
+  "jp": "あなたは\nパワーあふれる\n 『じつりょくハ』ね。ときどき自信カジョゥ   になることが、 あるみたいだけど?",
+  "en": "You are full of energy and truly capable. It seems you can be overconfident now and then, though."
+ },
+ {
+  "id": 365,
+  "context": "Regina: The Emperor, upright, position: the present",
+  "jp": "ものごとに\n  こだわらない\n『アッサリ』タイプね。『にんき』もあります。いまは、キソのチカラをミにつけるときです。",
+  "en": "You are the easygoing type who does not fuss over things, and you are popular. Now is the time to build up your basics."
+ },
+ {
+  "id": 366,
+  "context": "Regina: The Emperor, upright, position: the near future",
+  "jp": "アタラシイせかいに、チャレンジしてみると、うまくいくでしょう。『としうえ』の\nおとこの人をミカタに つけると、大吉ね!",
+  "en": "Take on a whole new field and it will go well. Win an older man over as your ally and it is very lucky indeed."
+ },
+ {
+  "id": 367,
+  "context": "Regina: The Emperor, upright, position: advice",
+  "jp": "だれとでも\n 『せいじつ』に\n   ツキアゥと、\nまわりの人から\n『しんらい』されます。スコシむずかしいケド。",
+  "en": "Deal sincerely with everyone and you will earn the trust of those around you. A little difficult, perhaps."
+ },
+ {
+  "id": 368,
+  "context": "Regina: The Emperor, upright, position: your situation",
+  "jp": "あなたは\nリーダーシップがあり、まわりからタヨリに\n  されています。\n『もくひょう』を\nたかくもちましょう。",
+  "en": "You have real leadership, and those around you depend on you. Hold your goals high and aim for them."
+ },
+ {
+  "id": 369,
+  "context": "Regina: The Emperor, upright, position: the right work for you",
+  "jp": "どんなことでも\n『せっきょくてき』に  とりくむと\n『ダイセイコゥ』ね!ハデな『しごと』は\n えらばないように。",
+  "en": "Tackle anything with energy and great success will follow. Just do not choose flashy work."
+ },
+ {
+  "id": 370,
+  "context": "Regina: The Emperor, upright, position: final judgement",
+  "jp": "あなたの『のぞみ』がかなう大吉のカード!あまりゴゥインにすると、まわりの人から、きらわれてしまいます。 チュゥイしてね。",
+  "en": "A very lucky card: your wish will come true. Be too forceful, though, and people will come to dislike you. Take care."
+ },
+ {
+  "id": 371,
+  "context": "Regina: The Emperor, reversed, position: your past",
+  "jp": "すこしスランプぎみ\n  カモしれません。ドリョクしても、\nミトメられないことも    あります。\n オチこまないでネ。",
+  "en": "You may be in a bit of a slump. Sometimes your efforts go unrecognized. Do not let it get you down."
+ },
+ {
+  "id": 372,
+  "context": "Regina: The Emperor, reversed, position: the present",
+  "jp": "『ケツダン』が\n    つかなくて、友人にそうだんすると コゥカイするカモ?いまはキソてきなコトをたいせつにしてね。",
+  "en": "You cannot make up your mind, and consulting a friend may only bring regret. For now, value the basics."
+ },
+ {
+  "id": 373,
+  "context": "Regina: The Emperor, reversed, position: the near future",
+  "jp": "『どりょく』が\n むくわれないかも?あなたのジツリョクが『はっき』できなくて、ゴカイされてしまう\n   こともあります。",
+  "en": "Your efforts may not be rewarded. You cannot show your true ability, and may be misunderstood at times."
+ },
+ {
+  "id": 374,
+  "context": "Regina: The Emperor, reversed, position: advice",
+  "jp": "あなたは『じつりょく』  がありますから、ミエをはったりせずに、自分の『かんがえ』をハッキリと、はつげんするようにしましょう。",
+  "en": "You do have ability, so do not put on airs. Make a point of stating your own views clearly."
+ },
+ {
+  "id": 375,
+  "context": "Regina: The Emperor, reversed, position: your situation",
+  "jp": "あなたは『やさしい人』チョッピリ『あまえんぼう』さんです。\n友人からアドバイスを うけたら、すなおにきいたほうがいいわよ。",
+  "en": "You are a kind person, and a little needy at times. When a friend offers advice, it is best to take it to heart."
+ },
+ {
+  "id": 376,
+  "context": "Regina: The Emperor, reversed, position: the right work for you",
+  "jp": "『あたらしい』ことを   はじめるより、キソをかためましょう。『としょかんシショ』、『しほうしょし』\n などが、ピッタリね。",
+  "en": "Rather than starting something new, firm up your basics. Librarian or legal clerk would suit you perfectly."
+ },
+ {
+  "id": 377,
+  "context": "Regina: The Emperor, reversed, position: final judgement",
+  "jp": "チョットしたミスで\n 『しっぱい』\n  してしまうカモ!『けいかく』を、\nいちどチウックして\n  みたほうが・・・",
+  "en": "A small mistake could lead to failure. It would be wise to check your plan over once more..."
+ },
+ {
+  "id": 378,
+  "context": "Regina: The Hierophant, upright, position: your past",
+  "jp": "あなたは\n 『せいじつ』で、\n やさしい人ですね。まわりから、\nきたいされていますが、 すこしガンコかな?",
+  "en": "You are sincere and kind. Those around you expect much of you, but are you a little stubborn?"
+ },
+ {
+  "id": 379,
+  "context": "Regina: The Hierophant, upright, position: the present",
+  "jp": "いままでの\n『どりょく』が\n   むくわれます!ラッキーなツキもあり、『やまかん』も\nバッチリあたります!",
+  "en": "Your efforts so far will be rewarded. Luck is on your side, and your hunches will hit the mark."
+ },
+ {
+  "id": 380,
+  "context": "Regina: The Hierophant, upright, position: the near future",
+  "jp": "ラッキーなアンジね。『どりょく』が\nムクわれるでしょう。『としうえ』の人が\nちからをかしてくれ、なやみもカイショゥ!",
+  "en": "A lucky sign. Your efforts will be rewarded. An older person will lend a hand, and your worries will clear."
+ },
+ {
+  "id": 381,
+  "context": "Regina: The Hierophant, upright, position: advice",
+  "jp": "あなたは、\nおおきなユメを\n   かたるよりも、ゲンジツをシッカリと  みつめるタイプ。『けんじつ』な人ね。",
+  "en": "You are the type who looks squarely at reality rather than talking of big dreams. A steady, reliable person."
+ },
+ {
+  "id": 382,
+  "context": "Regina: The Hierophant, upright, position: your situation",
+  "jp": "あなたの\n『まじめ』なタイドが シンライされます。『せんぱい』の人の\nアドバイスを\n   ききましょう。",
+  "en": "Your earnest, serious attitude earns the trust of others. Be sure to listen to the advice of your seniors."
+ },
+ {
+  "id": 383,
+  "context": "Regina: The Hierophant, upright, position: the right work for you",
+  "jp": "あなたには\n『いしゃ』『せんせい』『ぜいりし』がいいわ。『シゴトえらび』の\n  ポイントは\n人のヤクにたつコトね。",
+  "en": "Doctor, teacher or tax accountant would suit you. The key in choosing work is being of use to others."
+ },
+ {
+  "id": 384,
+  "context": "Regina: The Hierophant, upright, position: final judgement",
+  "jp": "あなたの『のぞみ』がかなうラッキーカード!自分だけでやろうと\n      しないでみんなに『てつだって』  もらいましょう。",
+  "en": "A lucky card: your wish will come true. Do not try to do everything alone; let everyone lend a hand."
+ },
+ {
+  "id": 385,
+  "context": "Regina: The Hierophant, reversed, position: your past",
+  "jp": "きゅうに『やるキ』が   なくなったり、友人が、とつぜん\n つめたくなるカモ?自分のコトだけを\nかんがえていたのカナ。",
+  "en": "You may suddenly lose your drive, or a friend may turn cold. Were you thinking only of yourself?"
+ },
+ {
+  "id": 386,
+  "context": "Regina: The Hierophant, reversed, position: the present",
+  "jp": "まわりのペースに\nついていけないコトが     あります。ムリして、あわせずに、自分のペースを\n    たいせつにネ。",
+  "en": "At times you cannot keep up with the pace of others. Do not force yourself to match them; value your own pace."
+ },
+ {
+  "id": 387,
+  "context": "Regina: The Hierophant, reversed, position: the near future",
+  "jp": "『もくひょう』と\n   『げんじつ』が、かけハナれそうです。まわりの人のイケンを  よくきかないと、『コドク』になります。",
+  "en": "Your goals and reality are drifting apart. Listen well to those around you, or you will end up alone."
+ },
+ {
+  "id": 388,
+  "context": "Regina: The Hierophant, reversed, position: advice",
+  "jp": "『人づきあい』が\nうまくいかないアンジ!まわりの人の\nイケンをきかない\n ガンコなタイドが\n    げんいんでは?",
+  "en": "A sign that relationships are not going well. Is your stubborn refusal to listen to others the cause?"
+ },
+ {
+  "id": 389,
+  "context": "Regina: The Hierophant, reversed, position: your situation",
+  "jp": "『ゴカイ』をされて、  コリツするカモ?まわりのセイだけでも   なさそうです。ケンキョに\n『はんせい』してネ。",
+  "en": "You may be misunderstood and left isolated. It is not entirely the fault of others. Reflect humbly on yourself."
+ },
+ {
+  "id": 390,
+  "context": "Regina: The Hierophant, reversed, position: the right work for you",
+  "jp": "じどうしゃやバイクの    エンジニア、コンピューターに\nかんけいするおしごとてさきをつかう\nしごともいいでしょう。",
+  "en": "A car or motorcycle mechanic, computer-related work, or a job that uses your hands would all be good for you."
+ },
+ {
+  "id": 391,
+  "context": "Regina: The Hierophant, reversed, position: final judgement",
+  "jp": "あなたの『キモチ』がアイテにつたわらない     アンジ!\nあまりオチコマナイで、 しずかにトキの\nたつのをまちましょう。",
+  "en": "A sign that your feelings do not reach the other person. Do not be too discouraged; quietly wait for time to pass."
+ },
+ {
+  "id": 392,
+  "context": "Regina: The Lovers, upright, position: your past",
+  "jp": "あなたは\n『さいのう』のある\n  『ゆかい』な人。友人もおおいタイプね。ときどき心が\n『さびしく』なるカモ。",
+  "en": "You are talented and cheerful, the type with many friends. At times, though, your heart may feel lonely."
+ },
+ {
+  "id": 393,
+  "context": "Regina: The Lovers, upright, position: the present",
+  "jp": "ステキな友人に、\n   めぐまれる\n ラッキーカード!\nなやみごとは、\n『えんりょ』しないで、うちあけましょう。",
+  "en": "A lucky card that blesses you with wonderful friends. Do not hold back; confide your worries to them."
+ },
+ {
+  "id": 394,
+  "context": "Regina: The Lovers, upright, position: the near future",
+  "jp": "『にんきうん』が\n  じょうしょう!\nケンカしていた人とも、  うまくいくけど\nこのゥンは\nながつづきしないカモ?",
+  "en": "Your popularity is on the rise. Even those you quarreled with will come around, but this luck may not last long."
+ },
+ {
+  "id": 395,
+  "context": "Regina: The Lovers, upright, position: advice",
+  "jp": "たよりになる友人に、めぐまれるカードです。でもチョゥシにのって友人にあまえてはダメ。自分のチカラを\n    つけること!",
+  "en": "A card that blesses you with dependable friends. But do not get carried away and lean on them. Build your own strength."
+ },
+ {
+  "id": 396,
+  "context": "Regina: The Lovers, upright, position: your situation",
+  "jp": "ユカイなあなたは、\nまわりの人の\n  『にんきもの』!でもチョゥシにのってつまらないジョークをレンパツしないように。",
+  "en": "Cheerful as you are, you are popular with everyone. But do not get carried away and fire off dull jokes."
+ },
+ {
+  "id": 397,
+  "context": "Regina: The Lovers, upright, position: the right work for you",
+  "jp": "あなたは\n『げいじゅつ』に\nかんけいしたシゴトが   ピッタリです。キソクのきびしい\nところは『ふむき』ね。",
+  "en": "Work related to the arts suits you perfectly. A workplace with strict rules, however, is not for you."
+ },
+ {
+  "id": 398,
+  "context": "Regina: The Lovers, upright, position: final judgement",
+  "jp": "あなたはスバラシイ\n『うんせい』を\n   もっています。チカラがたりないと、ゥンもひらけません。  ガンバッテね。",
+  "en": "You have a wonderful fortune in store. But if your own strength falls short, it cannot open up. Do your best."
+ },
+ {
+  "id": 399,
+  "context": "Regina: The Lovers, reversed, position: your past",
+  "jp": "友人と\nつまらないコトで\n ケンカをするカモ?自分を\n みつめなおす\nジキにきていますよ。",
+  "en": "You may quarrel with a friend over something trivial. The time has come to take a fresh look at yourself."
+ },
+ {
+  "id": 400,
+  "context": "Regina: The Lovers, reversed, position: the present",
+  "jp": "めだつ『こうどう』を      すると、なぜか『ふまじめ』と    思われます。あなたに『もんだい』  は、ないかしら?",
+  "en": "Draw attention to yourself and, somehow, people take you for frivolous. Could the problem lie with you?"
+ },
+ {
+  "id": 401,
+  "context": "Regina: The Lovers, reversed, position: the near future",
+  "jp": "すこし\n『ツライ』コトが\nあるかもしれません。ナカのよかった友人と、ケンカしてしまう\n  こともありそう!",
+  "en": "Something a little painful may happen. You may even fall out with a friend you were close to."
+ },
+ {
+  "id": 402,
+  "context": "Regina: The Lovers, reversed, position: advice",
+  "jp": "みんなと\n『なかよく』するのは、トテモむずかしいわ。ときには、\n  自分で友人を\nえらばなくてはダメね。",
+  "en": "Getting along with everyone is very difficult. Sometimes you must choose your friends for yourself."
+ },
+ {
+  "id": 403,
+  "context": "Regina: The Lovers, reversed, position: your situation",
+  "jp": "イッショゥけんめい\n   ガンバッテも\nまわりの人は\nみとめてくれません。『もくひょう』を\nハッキリさせましょう。",
+  "en": "However hard you try, those around you will not give you credit for it. Make your goal clear."
+ },
+ {
+  "id": 404,
+  "context": "Regina: The Lovers, reversed, position: the right work for you",
+  "jp": "『めさき』のことに\n  とらわれないで、   けんじつにね。『へんしゅう』や\n『こうせい』のしごとがいいかもしれません。",
+  "en": "Do not be caught up in what is right in front of you; stay steady. Editing or layout work may suit you."
+ },
+ {
+  "id": 405,
+  "context": "Regina: The Lovers, reversed, position: final judgement",
+  "jp": "『めさき』のコトを\nカンガエてはダメよ。『しょうらい』の\nジュンビをしましょう。コツコツまじめに\n    ガンバってネ。",
+  "en": "Do not think only of the here and now. Prepare for the future. Work steadily and in earnest."
+ },
+ {
+  "id": 406,
+  "context": "Regina: The Chariot, upright, position: your past",
+  "jp": "もう『ヒトいき』で、あなたの『のぞみ』が    かなうのに、サイゴの『つめ』が\nナカナカできないカモ。『せっきょく』テキに。",
+  "en": "One more push and your wish would come true, yet that final step is hard to take. Take the initiative."
+ },
+ {
+  "id": 407,
+  "context": "Regina: The Chariot, upright, position: the present",
+  "jp": "ラッキーカードです。『せっきょく』テキにものゴトをすすめると、  いいことが・・・トチュゥであきらめないで、ネバリづよく!",
+  "en": "A lucky card. Push ahead with energy and good things will come. Do not give up halfway; be persistent."
+ },
+ {
+  "id": 408,
+  "context": "Regina: The Chariot, upright, position: the near future",
+  "jp": "『のぞみ』がかなう、ラッキーカードです。なにゴトにも『イヨク』てきにトリくんで吉!シンブンや『ホン』を  よみましょう。",
+  "en": "A lucky card: your wish will come true. Tackle everything with enthusiasm for good fortune. Read newspapers and books."
+ },
+ {
+  "id": 409,
+  "context": "Regina: The Chariot, upright, position: advice",
+  "jp": "のんびりしていると\nチャンスが、\n にげてしまいます。まわりの人のキモチを かんがえて\n『たすけ』あってね。",
+  "en": "Dawdle and your chances will slip away. Consider the feelings of those around you and help one another."
+ },
+ {
+  "id": 410,
+  "context": "Regina: The Chariot, upright, position: your situation",
+  "jp": "あなたは\n『人のうえ』にたてる『ちから』があります。シゼンに人が\n あつまるでしょう。タヨリにされています。",
+  "en": "You have the strength to lead others. People naturally gather around you, and they rely on you."
+ },
+ {
+  "id": 411,
+  "context": "Regina: The Chariot, upright, position: the right work for you",
+  "jp": "『ハンダン』力の\nよさをいかしましょう。『プロドライバー』、ラグビー、サッカーのスポーツせんしゅが\n     ピッタリ!",
+  "en": "Make use of your sound judgment. Professional driver, or an athlete in rugby or soccer, would be perfect."
+ },
+ {
+  "id": 412,
+  "context": "Regina: The Chariot, upright, position: final judgement",
+  "jp": "あなたの『のぞみ』がかなう大吉カードです。『イシ』をつよくもち、『どりょく』をすれば、かならずセイコゥ\n   できるでしょう。",
+  "en": "A very lucky card: your wish will come true. With a strong will and hard work, you will surely succeed."
+ },
+ {
+  "id": 413,
+  "context": "Regina: The Chariot, reversed, position: your past",
+  "jp": "ガンバッテも\n  うまくいかず、\nライバルが\n  あらわれるカモ?トチュゥで『やるキ』をうしなってはダメよ。",
+  "en": "Hard as you try, things do not go well, and a rival may appear. Do not lose your drive halfway through."
+ },
+ {
+  "id": 414,
+  "context": "Regina: The Chariot, reversed, position: the present",
+  "jp": "あなたのチカラが\n ハッキできません。すこしスランプぎみ?『もくひょう』を\nひとつにシボって、\n   かくじつに!",
+  "en": "You cannot show your true ability. A bit of a slump, perhaps? Narrow your goals to one and see it through."
+ },
+ {
+  "id": 415,
+  "context": "Regina: The Chariot, reversed, position: the near future",
+  "jp": "もうあと『ひといき』   というところでミスをしてしまうカモ。いつもしている\nカンタンなことでも、よくチュゥイしてね。",
+  "en": "You may slip up just one step from the finish. Pay close attention even to the simple things you always do."
+ },
+ {
+  "id": 416,
+  "context": "Regina: The Chariot, reversed, position: advice",
+  "jp": "『ちゅうい』力が\n サンマンに\n   なっています。バイクや『くるま』に  のるときは、\nチュゥイしましょう。",
+  "en": "Your attention has become scattered. Take particular care when riding a motorcycle or driving a car."
+ },
+ {
+  "id": 417,
+  "context": "Regina: The Chariot, reversed, position: your situation",
+  "jp": "『よそう』が\n  できないところで『ジャマ』が\n    はいるかも?まわりの人のキモチをカンガエるようにネ。",
+  "en": "Interference may come from where you least expect it. Try to consider the feelings of those around you."
+ },
+ {
+  "id": 418,
+  "context": "Regina: The Chariot, reversed, position: the right work for you",
+  "jp": "あなたには、\n『ぼうえき』のしごとが、あっているわね。『がいこくご』の\n      ちしきを みにつけましょう。",
+  "en": "Work in foreign trade suits you well. Make a point of acquiring a good knowledge of foreign languages."
+ },
+ {
+  "id": 419,
+  "context": "Regina: The Chariot, reversed, position: final judgement",
+  "jp": "『いし』をつよくもち、しっかりしたプランを     たてないと、まわりから\nジャマされたりする\n   ことがあります。",
+  "en": "Unless you hold a strong will and make a solid plan, those around you may get in your way."
+ },
+ {
+  "id": 420,
+  "context": "Regina: Justice, upright, position: your past",
+  "jp": "あなたは\nトテモまじめな人。\nいくら正しいコトでも、ソフトにいわないと、キツイかんじに\n  みられますよ。",
+  "en": "You are a very earnest person. Even when you are right, say it gently or you will come across as harsh."
+ },
+ {
+  "id": 421,
+  "context": "Regina: Justice, upright, position: the present",
+  "jp": "ラッキーカードです。『にんきゥン』も\n  『こうちょう』!あなたのマワリには、チャンスもいっぱい。  がんばってネ。",
+  "en": "A lucky card. Your popularity is thriving too. There are chances all around you. Do your best."
+ },
+ {
+  "id": 422,
+  "context": "Regina: Justice, upright, position: the near future",
+  "jp": "あなたの『のぞみ』がかなう大吉カードです。自信をもって、\nかんがえていることを   ジッコゥしてネ。 GOOD LUCK!",
+  "en": "A very lucky card: your wish will come true. Have confidence and carry out what you have in mind. Good luck!"
+ },
+ {
+  "id": 423,
+  "context": "Regina: Justice, upright, position: advice",
+  "jp": "自信をなくしたトキは ガンバりすぎないで、すこし『きぶん』を\n    かえてみると、いい『かんがえ』が\n     うかぶわよ。",
+  "en": "When you lose confidence, do not push too hard. Change your mood a little and a good idea will come to you."
+ },
+ {
+  "id": 424,
+  "context": "Regina: Justice, upright, position: your situation",
+  "jp": "あなたは『お人よし』。友人どうしの\n『ケンカ』にクビを\n つっこまないこと!りょうほうから\n  ゥラマれますよ。",
+  "en": "You are too good-natured. Do not get involved in quarrels between friends; both sides will resent you for it."
+ },
+ {
+  "id": 425,
+  "context": "Regina: Justice, upright, position: the right work for you",
+  "jp": "あなたの『とくい』なことは、なにかしら?スポーツや『おんがく』にカンするコトに、\nさいのうがあるのでは?もっと自信をもってね。",
+  "en": "What is it that you excel at? You may have a talent for sports or music. Have more confidence in yourself."
+ },
+ {
+  "id": 426,
+  "context": "Regina: Justice, upright, position: final judgement",
+  "jp": "あなたの『のぞみ』がかなう大吉カードです。めったにない\n  チャンスですから、けんこうにチュゥイ\nして、ガンバッテね。",
+  "en": "A very lucky card: your wish will come true. It is a rare chance, so mind your health and do your best."
+ },
+ {
+  "id": 427,
+  "context": "Regina: Justice, reversed, position: your past",
+  "jp": "『りゆう』のない\n『ふあん』をかんじる  ことがあるカモ?あなたの『じつりょく』いじょうのシゴトを、まかせられたりします。",
+  "en": "You may feel anxious for no reason. You may also be entrusted with work beyond your present abilities."
+ },
+ {
+  "id": 428,
+  "context": "Regina: Justice, reversed, position: the present",
+  "jp": "すこし『どりょく』が   たりないのか、『ほうほう』が\nまちがっているかも\n    しれません。コツコツ、がんばって。",
+  "en": "Either your effort is a little lacking, or your method may be wrong. Keep at it, steadily and patiently."
+ },
+ {
+  "id": 429,
+  "context": "Regina: Justice, reversed, position: the near future",
+  "jp": "あなたの『のぞみ』は  かなわないカモ?でもトチュゥで\nあきらめたりしないで!だれかがあなたのコトをチュゥモクしてるわ。",
+  "en": "Your wish may not come true. But do not give up halfway. Someone is paying close attention to you."
+ },
+ {
+  "id": 430,
+  "context": "Regina: Justice, reversed, position: advice",
+  "jp": "あなたはスコシ\n『りくつ』ッポイわよ。『もんく』を\n    いうまえに、まず『じっこう』を\n   心がけましょう。",
+  "en": "You are a little too fond of arguing. Before you complain, make a point of taking action first."
+ },
+ {
+  "id": 431,
+  "context": "Regina: Justice, reversed, position: your situation",
+  "jp": "つまらない『うわさ』バナシをしていると、『しんよう』をなく\n  してしまいますよ。『くち』は\n 『わざわい』のモト。",
+  "en": "Idle gossip will cost you people's trust. Remember, careless words are the source of misfortune."
+ },
+ {
+  "id": 432,
+  "context": "Regina: Justice, reversed, position: the right work for you",
+  "jp": "スコシ自信を\nなくしていませんか。アジアにかんけいする   おしごと\nのうぎょうしどうや\nつうやくはどうかしら?",
+  "en": "Have you lost a little confidence? How about work connected with Asia, agricultural advising, or interpreting?"
+ },
+ {
+  "id": 433,
+  "context": "Regina: Justice, reversed, position: final judgement",
+  "jp": "『ちから』のフソクをアンジするカードです。いまからでも、\n  おそくありません。コツコツ『どりょく』を、してみましょう!",
+  "en": "This card points to a lack of strength. It is not too late, even now. Make a steady effort."
+ },
+ {
+  "id": 434,
+  "context": "Regina: The Hermit, upright, position: your past",
+  "jp": "自分のしたいことに\nきがついていないの\n  かもしれません。あなたは自分で\nかんがえているよりも『ちから』があるわよ。",
+  "en": "You may not yet have realized what you truly want to do. You have more strength than you think."
+ },
+ {
+  "id": 435,
+  "context": "Regina: The Hermit, upright, position: the present",
+  "jp": "『べんきょう』や\n   『おしごと』に大ハッテンがあります!こまったことは\n   『せんぱい』にそうだんしてみてね。",
+  "en": "Great progress in your studies or work. If something troubles you, try consulting a senior."
+ },
+ {
+  "id": 436,
+  "context": "Regina: The Hermit, upright, position: the near future",
+  "jp": "『がくもん』や\n『けんきゅう』にカンすることはチャンス!『テスト』には、\n  いい『けっか』がきたいできるカモ!",
+  "en": "A chance in anything related to learning or research. You can expect good results on your tests."
+ },
+ {
+  "id": 437,
+  "context": "Regina: The Hermit, upright, position: advice",
+  "jp": "自分の『すきキライ』   だけでなくて、いろいろな人と\nしたしくして\n いい『しげき』を\n   うけましょう。",
+  "en": "Do not go by likes and dislikes alone. Get to know all sorts of people and let them inspire you."
+ },
+ {
+  "id": 438,
+  "context": "Regina: The Hermit, upright, position: your situation",
+  "jp": "ものごとの『ほんしつ』を、きわめるタイプ。まわりから、トテモ\n たよりにされるけどえらそうなタイドは、 つつしみましょう。",
+  "en": "You are the type who gets to the heart of things. Others rely on you, but refrain from an arrogant attitude."
+ },
+ {
+  "id": 439,
+  "context": "Regina: The Hermit, upright, position: the right work for you",
+  "jp": "あなたは\n『じょうほう』ツゥで、『かんがえ』も\n シッカリしているわ。『コンサルタント』が    ピッタリね。",
+  "en": "You are well informed and your thinking is solid. Consultant would be the perfect job for you."
+ },
+ {
+  "id": 440,
+  "context": "Regina: The Hermit, upright, position: final judgement",
+  "jp": "『がくもん』にカン\n    するコトには、ラッキーなアンジです。テストや『しんがく』『りゅうがく』すべて、 よいケッカがでるわ!",
+  "en": "A lucky sign for anything academic. Tests, entrance exams, studying abroad: all will bring good results."
+ },
+ {
+  "id": 441,
+  "context": "Regina: The Hermit, reversed, position: your past",
+  "jp": "すこし『ストレス』が たまっているカモ?イライラしないで、\nスキな『えいが』を\nみたり、『ほん』を\nよんだりしましょう。",
+  "en": "A little stress may be building up. Do not get irritable; watch a favorite movie or read a book instead."
+ },
+ {
+  "id": 442,
+  "context": "Regina: The Hermit, reversed, position: the present",
+  "jp": "『なにか』をやろう、   と思うのですが『き』がのらないカモ?むりにガンバラないで、 すこし\n『きぶんテンカン』を!",
+  "en": "You mean to do something, but cannot get into it. Do not force yourself; take a little change of pace."
+ },
+ {
+  "id": 443,
+  "context": "Regina: The Hermit, reversed, position: the near future",
+  "jp": "『せいしん』テキに、 すこしツカレぎみ?すべてのことが\nメンドゥになったり、べつのことを、\nはじめたくなるカモ。",
+  "en": "Mentally a little worn out? Everything may feel like a bother, or you may want to start something else."
+ },
+ {
+  "id": 444,
+  "context": "Regina: The Hermit, reversed, position: advice",
+  "jp": "モノゴトが、\n  思っているように   ならなくて\n イライラするかも?シンコクにならないで 『き』をらくにネ。",
+  "en": "Things may not go as you expect and leave you irritated. Do not take it too seriously; relax."
+ },
+ {
+  "id": 445,
+  "context": "Regina: The Hermit, reversed, position: your situation",
+  "jp": "このゴロのあなたは、イジをはったり、\n  『あまえ』たり、すこしヘンですよ。\nまわりの人は\nシンパイしているわ。",
+  "en": "Lately you have been stubborn one moment and needy the next; a little odd. Those around you are worried."
+ },
+ {
+  "id": 446,
+  "context": "Regina: The Hermit, reversed, position: the right work for you",
+  "jp": "ガンバったから\n うまくいくとは、\n かぎらないモノね。『すうがく』に\nカンする『しごと』が  あっています。",
+  "en": "Working hard does not always mean things go well. Work related to mathematics is what suits you best."
+ },
+ {
+  "id": 447,
+  "context": "Regina: The Hermit, reversed, position: final judgement",
+  "jp": "『カンガエ』がうまくアイテにつたわらない  カモしれません。あせらないで\nドーンとかまえて、\nこうどうしましょう。",
+  "en": "Your ideas may not get across to the other person. Do not rush; stay composed, and then act."
+ },
+ {
+  "id": 448,
+  "context": "Regina: Wheel of Fortune, upright, position: your past",
+  "jp": "このマルイ『わ』は、うんめいの『わ』と\n  いわれています。これをキカイに\n自分のことをしずかにみつめてみましょう。",
+  "en": "This round wheel is called the wheel of fate. Take this opportunity to look quietly at yourself."
+ },
+ {
+  "id": 449,
+  "context": "Regina: Wheel of Fortune, upright, position: the present",
+  "jp": "大吉カードです!\nいままでスゴク\n 『おちこん』だり、  『なやん』だり\n   していた人ほどチャンスがイッパイ!",
+  "en": "A very lucky card. The more you have been down and worried until now, the more chances await you."
+ },
+ {
+  "id": 450,
+  "context": "Regina: Wheel of Fortune, upright, position: the near future",
+  "jp": "チャンスカードです!『せっきょく』テキにこうどうしましょう。『ひっこし』、『しんがく』『てんしょく』など、大吉です。",
+  "en": "A card of opportunity. Act with energy. Moving house, entering a new school or changing jobs are all very lucky."
+ },
+ {
+  "id": 451,
+  "context": "Regina: Wheel of Fortune, upright, position: advice",
+  "jp": "あなたには\n『おもいきり』が\n    タイセツ。\n『なやみ』がある人は、『たび』にでることを   おすすめします。",
+  "en": "Boldness is what matters for you. If something is weighing on you, I recommend setting out on a journey."
+ },
+ {
+  "id": 452,
+  "context": "Regina: Wheel of Fortune, upright, position: your situation",
+  "jp": "あなたのまわりに\n いろいろな人が\n  あつまってきます。『にんき』ゥンが\n 『じょうしょう』\n   しているのです。",
+  "en": "All sorts of people are gathering around you. Your popularity is on the rise, and it shows."
+ },
+ {
+  "id": 453,
+  "context": "Regina: Wheel of Fortune, upright, position: the right work for you",
+  "jp": "『ぜんたい』テキには、ツキにめぐまれてるわ。あなたには、\nアニメーターや\n  デザイナーなどがピッタリしています。",
+  "en": "On the whole, luck is on your side. A job such as animator or designer would suit you perfectly."
+ },
+ {
+  "id": 454,
+  "context": "Regina: Wheel of Fortune, upright, position: final judgement",
+  "jp": "『うんめい』の\n    『めがみ』はあなたにほほえむ\n     でしょう。どんなナヤミでも\n『しんぱい』なしよ。",
+  "en": "The goddess of fate will smile upon you. Whatever your worries, there is no need for concern."
+ },
+ {
+  "id": 455,
+  "context": "Regina: Wheel of Fortune, reversed, position: your past",
+  "jp": "『うんめい』の\n テンカンの『じき』!いろいろなヘンカが、まわりでおこりますが、あまりナヤミすぎ\n    ないように。",
+  "en": "A turning point in your fate. Many changes will happen around you, but do not worry too much."
+ },
+ {
+  "id": 456,
+  "context": "Regina: Wheel of Fortune, reversed, position: the present",
+  "jp": "このごろ、なぜか\n『ツキ』がありません。  スランプです。\n『じかん』を\nうまくツカうことが\n  ポイントですよ。",
+  "en": "Lately, for some reason, luck is not with you. You are in a slump. The key is to use your time well."
+ },
+ {
+  "id": 457,
+  "context": "Regina: Wheel of Fortune, reversed, position: the near future",
+  "jp": "『よき』しない\nデキゴトがおこりそう!『じてんしゃ』のジコ、  ケガにチュゥイ!しばらく『とおく』にいくのは、ヒカエてね。",
+  "en": "Something unexpected is likely to happen. Beware of bicycle accidents and injuries. Avoid traveling far for a while."
+ },
+ {
+  "id": 458,
+  "context": "Regina: Wheel of Fortune, reversed, position: advice",
+  "jp": "スランプのときは\n いくらガンバッテもむくわれないことが\n      あります。タマには『ちから』を ぬいてみましょう。",
+  "en": "In a slump, however hard you try, it may go unrewarded. Now and then, try easing up a little."
+ },
+ {
+  "id": 459,
+  "context": "Regina: Wheel of Fortune, reversed, position: your situation",
+  "jp": "まわりのゴタゴタに、まきこまれそうです。『もめごと』を\nおさめようとすると、あなたが『わるもの』になってしまいます。",
+  "en": "You are likely to be dragged into other people's troubles. Try to settle a dispute and you will end up the villain."
+ },
+ {
+  "id": 460,
+  "context": "Regina: Wheel of Fortune, reversed, position: the right work for you",
+  "jp": "『じかん』をうまく\nつかうことがポイント。『めだつ』シゴトより、『ひしょ』『けいり』などのジミなシゴトが   あっています。",
+  "en": "The key is to use your time well. Rather than flashy work, a modest job such as secretary or accounting suits you."
+ },
+ {
+  "id": 461,
+  "context": "Regina: Wheel of Fortune, reversed, position: final judgement",
+  "jp": "『けいかく』を\nたててもジャマが\n     はいって、  うまくいきません。わるいことは\nながく、つづきません。",
+  "en": "Even when you make plans, something gets in the way and they do not work out. But bad times do not last long."
+ }
+]

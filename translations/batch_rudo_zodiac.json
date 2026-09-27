@@ -1,0 +1,482 @@
+[
+ {
+  "id": 616,
+  "context": "Rudo: The Fool, upright",
+  "jp": "『おろかもの』と\n  いうイミの\nカードなのじゃナモ。『ゼロ』からの、\n『しゅっぱつ』という   いみですぞ。",
+  "en": "The Fool, this card is called. It means a fresh start, young one: setting out from zero."
+ },
+ {
+  "id": 617,
+  "context": "Rudo: The Fool, reversed",
+  "jp": "『おろかもの』の\n  カードが\n『さかさま』じゃナモ。自分の『おろかさ』にキヅける、という\n  アンジでもあるぞ。",
+  "en": "The Fool, reversed. Hmph. Still, it is also a sign that you will come to see your own foolishness. That is no small thing."
+ },
+ {
+  "id": 618,
+  "context": "Rudo: The Magician, upright",
+  "jp": "『まじゅつし』の\n  カードじゃナモ。『そうぞうリョク』を  イミするのだゾ。よいカードを\nひきあてたものじゃ。",
+  "en": "The Magician. This card stands for creative power, for imagination. A fine card you have drawn there."
+ },
+ {
+  "id": 619,
+  "context": "Rudo: The Magician, reversed",
+  "jp": "『まじゅつし』が\n『さかさま』に\n デテしまったワイ。しばらく『なやみ』がなくなるコトは\n  ないじゃろうな。",
+  "en": "The Magician has come out reversed. I reckon your worries will not be leaving you for a while yet."
+ },
+ {
+  "id": 620,
+  "context": "Rudo: The High Priestess, upright",
+  "jp": "『ちせい』をイミする   カードじゃナモ。いいカードが、でても『おまえさま』の\n『どりょく』\n    しだいじゃよ。",
+  "en": "The High Priestess stands for wisdom, for the mind. A good card, yes. Mind you, it all comes down to your own effort."
+ },
+ {
+  "id": 621,
+  "context": "Rudo: The High Priestess, reversed",
+  "jp": "『ちせい』のカードが『さかさま』ジャなも!なにごとにも\nファイトがなくなる、こまった\n  アンジであるぞよ。",
+  "en": "The High Priestess, reversed! A troubling sign, that. Your fighting spirit drains away, whatever you turn your hand to."
+ },
+ {
+  "id": 622,
+  "context": "Rudo: The Empress, upright",
+  "jp": "『ははおや』の『あい』 をイミするのジャな。『あかちゃん』に\n   めぐまれる、\n  アンジもアルぞ。ゥッヒヒヒヒーッッ・",
+  "en": "The Empress. A mother's love, that is what it means. It can also be a sign that a baby is on the way. Heh heh heh heh!"
+ },
+ {
+  "id": 623,
+  "context": "Rudo: The Empress, reversed",
+  "jp": "『はは』の『あい』の  カードが、\n  『さかさま』じゃ。おんなの人は\n『びょうき』をしない  ようにしなされよ。",
+  "en": "The card of a mother's love, reversed. If you are a woman, mind your health now. Do not let sickness take hold."
+ },
+ {
+  "id": 624,
+  "context": "Rudo: The Emperor, upright",
+  "jp": "『リーダー』を\nイミするカードだがゃ。『だんせい』には、\n ラッキーじゃナモ。チャンスカードじゃ。 がんばりなされヨ",
+  "en": "The Emperor stands for the leader. Lucky for a man, this one. A card of opportunity, I reckon. Give it your all!"
+ },
+ {
+  "id": 625,
+  "context": "Rudo: The Emperor, reversed",
+  "jp": "カードが\n『さかさま』じゃなぁ。友人の『しんよう』をなくしてしまう\n    アンジじゃ。おキをつけなされヨ。",
+  "en": "The Emperor, reversed. Hmph. A sign that you may lose the trust of your friends. Watch yourself."
+ },
+ {
+  "id": 626,
+  "context": "Rudo: The Hierophant, upright",
+  "jp": "『しんらい』や\n  『思いやり』を\nイミするカードじゃ。『こい』を\n している人にも\nよいアンジじゃよ。",
+  "en": "The Hierophant. It stands for trust, and for kindness toward others. A good sign for those in love as well, mind you."
+ },
+ {
+  "id": 627,
+  "context": "Rudo: The Hierophant, reversed",
+  "jp": "『しんらい』の\n     カードが\n『さかさま』に\n  デルとはなぁー。『おまえさま』も\nツイテおらんなぁー。",
+  "en": "The card of trust, and it comes out reversed. Luck is not with you just now, young one. Not at all."
+ },
+ {
+  "id": 628,
+  "context": "Rudo: The Lovers, upright",
+  "jp": "『こいびと』の\n  カードじゃなぁ。おまえさまも、\n『すみ』に\n おけないヤツじゃ。ガンバリなされよ。",
+  "en": "The Lovers, eh? Well now. There is more to you than meets the eye, you sly one. Do your best!"
+ },
+ {
+  "id": 629,
+  "context": "Rudo: The Lovers, reversed",
+  "jp": "『こいびと』が\n『さかさま』じゃナモ。『こい』のチャンスが なくなった、\n   と思うじゃろ? そのトオリじゃゾ。",
+  "en": "The Lovers, reversed. You suppose your chance at love has slipped away, do you? Quite right. It has."
+ },
+ {
+  "id": 630,
+  "context": "Rudo: The Chariot, upright",
+  "jp": "『せんしゃ』の\n    カードじゃ。『ちから』『ゆうき』 をイミするのジャ。『くるま』をイミするコトもアルわなぁー。",
+  "en": "The Chariot. It stands for strength and for courage. Mind you, it can also mean a car, plain and simple."
+ },
+ {
+  "id": 631,
+  "context": "Rudo: The Chariot, reversed",
+  "jp": "『せんしゃ』が\n『ひっくり』カエって   おるのぉー。\nおまえさま、\n 『けが』に\nチュゥイするのジャゾ。",
+  "en": "The Chariot has tipped right over. Hmph. Watch yourself. Take care that you do not get hurt."
+ },
+ {
+  "id": 632,
+  "context": "Rudo: Justice, upright",
+  "jp": "『せいぎ』の\n    カードじゃ。自分の心に\n  『せいじつ』に\nイキるのじゃぞぉ。\n ハッハッハーー。",
+  "en": "Justice. This card tells you to live true to your own heart. Be honest with yourself. Ha ha ha!"
+ },
+ {
+  "id": 633,
+  "context": "Rudo: Justice, reversed",
+  "jp": "『せいぎ』が\n『さかさま』じゃナモ。自分に自信がなくなる、   アンジもあるゾ。『しんちょう』に\n  コゥドゥなされよ。",
+  "en": "Justice, reversed. It can be a sign that you lose faith in yourself. Tread carefully in whatever you do, mind."
+ },
+ {
+  "id": 634,
+  "context": "Rudo: The Hermit, upright",
+  "jp": "くらやみのナカで\n『しんじつ』をさがす、『いんじゃ』の\n カードじゃなぁー。まじめにヤルと\nイイことがあるのジャ。",
+  "en": "The Hermit, who seeks the truth in the dark. Work at things in earnest, young one, and good will come of it."
+ },
+ {
+  "id": 635,
+  "context": "Rudo: The Hermit, reversed",
+  "jp": "『しんじつ』を\nイミするカードが、\n『さかさま』ジャな。『なまけ心』を\n いましめるイミも\n   あるのじゃぞ。",
+  "en": "The card of truth, reversed. It serves as a warning against idleness, mark my words. Do not let a lazy heart take hold."
+ },
+ {
+  "id": 636,
+  "context": "Rudo: Wheel of Fortune, upright",
+  "jp": "『うんめい』は\nクルクルまわって\nイイときも、\nワルイときもある、\nという、むずかしい\n カードじゃナモ。",
+  "en": "The Wheel of Fortune. Fate goes round and round: good times, then bad, then good again. A tricky card, this one."
+ },
+ {
+  "id": 637,
+  "context": "Rudo: Wheel of Fortune, reversed",
+  "jp": "『うんめい』のワが\n『さかさま』じゃナモ。人の『もめごと』に\n   まきこまれる\n『かのうせい』があるからチュゥイしなされ!",
+  "en": "The Wheel of Fortune, reversed. You may well get dragged into other folks' quarrels. Keep your wits about you!"
+ },
+ {
+  "id": 638,
+  "context": "Rudo: Strength, upright",
+  "jp": "『ちから』の\n   カードじゃ。\nバカぢから、の\n イミじゃないゾ。\n心にも『ちから』が\n あるワケじゃナぁー",
+  "en": "Strength. Not brute force, mind you. The heart has its own kind of strength, and that is what this card means."
+ },
+ {
+  "id": 639,
+  "context": "Rudo: Strength, reversed",
+  "jp": "『ちから』のカードが『さかさま』じゃナ。『キソク』ただしい\n『せいかつ』をして、つまらないミエを\nはらないコトじゃよ。",
+  "en": "Strength, reversed. Keep to a steady, orderly life, and do not go putting on airs over trifles. Mark my words."
+ },
+ {
+  "id": 640,
+  "context": "Rudo: The Hanged Man, upright",
+  "jp": "このカードは\n『がまん』をイミする。『わがまま』は、\n  ダメじゃナぁー。自分にキビしく\n   するのジャぞ。",
+  "en": "The Hanged Man means endurance. No being selfish now, young one. Be strict with yourself, and bear it."
+ },
+ {
+  "id": 641,
+  "context": "Rudo: The Hanged Man, reversed",
+  "jp": "『がまん』のカードが『さかさま』かぁー。ガンバッテも\n  みとめられない、かなしいイミも\n   ありますゾ。",
+  "en": "The card of endurance, reversed. Hmph. A sad meaning, this one: you may work hard and still go unrecognized."
+ },
+ {
+  "id": 642,
+  "context": "Rudo: Death, upright",
+  "jp": "『しにがみ』ジャ。\n『はかい』『さいなん』 というイミでな、\nわかってオル\n   じゃろうがなぁ、キをつけるようにナ。",
+  "en": "Death. Ruin and misfortune, that is what it means. You knew that already, I reckon. Take care of yourself."
+ },
+ {
+  "id": 643,
+  "context": "Rudo: Death, reversed",
+  "jp": "『しにがみ』が、\n『さかさま』じゃな。すこしずつ\n『うんめい』が\nよくなる、アンジじゃ。キをぬかないようにナ。",
+  "en": "Death, reversed. A sign that your fortunes will improve, little by little. Mind you, do not let your guard down."
+ },
+ {
+  "id": 644,
+  "context": "Rudo: Temperance, upright",
+  "jp": "『マネー』の\n   カードじゃぞ。『おかね』にカンするコトにツキが\n  まわってくるぞ。つかいスギないように!",
+  "en": "Temperance, the money card. Luck is coming round in matters of money, I reckon. Just do not go spending it all!"
+ },
+ {
+  "id": 645,
+  "context": "Rudo: Temperance, reversed",
+  "jp": "『マネー』をイミする  カードが\n『さかさま』じゃな。『おかね』の\n   つかいかたを\nかんがえることジャ。",
+  "en": "Temperance, the money card, reversed. Time you thought hard about how you spend your money, young one."
+ },
+ {
+  "id": 646,
+  "context": "Rudo: The Devil, upright",
+  "jp": "『あくま』の\n    カードじゃ。『うん』がワルイと\n いうだけじゃなく、『ゆうわく』にヨワイ  ともデテおるゾ。",
+  "en": "The Devil. It is not only that your luck is bad. This card says you give in to temptation too easily, mind you."
+ },
+ {
+  "id": 647,
+  "context": "Rudo: The Devil, reversed",
+  "jp": "『さいあく』の\n『じょうたい』カラは、『だっしゅつ』\n できたらしいがのぉ。くれぐれも\n『き』をぬくでナイゾ。",
+  "en": "The Devil, reversed. It seems you have escaped the worst of it. Hmph. But whatever you do, do not let your guard down."
+ },
+ {
+  "id": 648,
+  "context": "Rudo: The Tower, upright",
+  "jp": "たかい『とう』から、 オチルというコトは、『けんりょく』からの  『てんらく』や\n『けが』『じこ』を\n  イミするのジャゾ。",
+  "en": "The Tower. To fall from a high tower means a fall from power, or else an injury or an accident. Watch yourself."
+ },
+ {
+  "id": 649,
+  "context": "Rudo: The Tower, reversed",
+  "jp": "『とう』のカードが\n 『さかさま』じゃナ。こまったコトじゃが、『わかれ』とか\n『はきょく』という\n     イミだがゃ。",
+  "en": "The Tower, reversed. A troubling thing, this. It means a parting of ways, or a relationship falling apart."
+ },
+ {
+  "id": 650,
+  "context": "Rudo: The Star, upright",
+  "jp": "『きぼう』のホシじゃ。あかるいミライが\n   くるとエエなモ。『れんあい』には\n よいカードなのじゃ。ガンバルように・・ナ!",
+  "en": "The Star, the star of hope. May a bright future come your way. A fine card for romance, this. Do your best... you hear?"
+ },
+ {
+  "id": 651,
+  "context": "Rudo: The Star, reversed",
+  "jp": "『きぼう』のホシが\n 『さかさま』じゃ。おまえさまは、\n『ツキ』がないな。\nすこしヤスんで\n みたらドゥじゃな?",
+  "en": "The star of hope, reversed. Luck is not on your side, young one. Why not take a little rest?"
+ },
+ {
+  "id": 652,
+  "context": "Rudo: The Moon, upright",
+  "jp": "『つき』は、\nいつも『かたち』が\nきまっていないじゃろ。『ふあんてい』、\n『なやみ』がおおい、というイミじゃナぁー。",
+  "en": "The Moon. Its shape is never the same two nights running, is it? It means unease, and a great many worries, I reckon."
+ },
+ {
+  "id": 653,
+  "context": "Rudo: The Moon, reversed",
+  "jp": "『つき』が\n『さかさま』となぁー。おまえさまは、\nロマンチストじゃな?でもユメばかり\n みていてもダメじゃ。",
+  "en": "The Moon, reversed. You are a romantic, are you not, young one? But it will not do to spend your days dreaming."
+ },
+ {
+  "id": 654,
+  "context": "Rudo: The Sun, upright",
+  "jp": "エネルギーあふれる\n『たいよう』の\n   カードじゃな。チャンスを\nにがさないように\n ガンバリなされよ。",
+  "en": "The Sun, brimming with energy. Do not let your chance slip past you. Give it everything you have, now."
+ },
+ {
+  "id": 655,
+  "context": "Rudo: The Sun, reversed",
+  "jp": "ナント『たいよう』が『さかさま』に\n  デタとはなぁー。すこしツライことが\n あるかもしれないゾ。キをおとさないように!",
+  "en": "The Sun, of all cards, come out reversed. Hmph. Some hard times may lie ahead. Do not let it get you down!"
+ },
+ {
+  "id": 656,
+  "context": "Rudo: Judgement, upright",
+  "jp": "『ふっかつ』を\nイミするカードじゃ。まえに、『しっぱい』   したコトでも、『やりなおし』が\n  できるのジャぞ。",
+  "en": "Judgement. It stands for revival, for rising again. Even what you failed at before, you can try once more, mind you."
+ },
+ {
+  "id": 657,
+  "context": "Rudo: Judgement, reversed",
+  "jp": "『ふっかつ』が\n『さかさま』にナぁー。おまえさまは、\n『せいしんてき』に\nツカレておるのジャナ。すこしヤスメよのぉー。",
+  "en": "Judgement, reversed. You are worn out in spirit, I can see it. Best you take a little rest."
+ },
+ {
+  "id": 658,
+  "context": "Rudo: The World, upright",
+  "jp": "タロットで、いちばん『つよい』カードじゃ。おまえさまの\n  『のぞみ』が\n   カナうように\nルドもいのってオルぞ。",
+  "en": "The World. The strongest card in all the tarot. Old Rudo himself is praying that your wish comes true, young one."
+ },
+ {
+  "id": 659,
+  "context": "Rudo: The World, reversed",
+  "jp": "『もくてき』タッセイ   のカードが\n『さかさま』なのは、   イカンなぁー。ツライことが\n ありそうジャなも。",
+  "en": "The World, the card of goals achieved, reversed. That is no good at all, I reckon. Hard times look to be ahead."
+ },
+ {
+  "id": 660,
+  "context": "Nana: zodiac reading for Aries",
+  "jp": "なにごとにも\nまじめなあなたは\n『こい』にも\nいっしょうけんめい。もうすこし『よゆう』をもちましょうね。",
+  "en": "You take everything seriously, and love is no exception: you give it your all! Try to relax a little, okay?"
+ },
+ {
+  "id": 661,
+  "context": "Nana: zodiac reading for Taurus",
+  "jp": "なにごとにも\n ようじんぶかい\nあなたは『こい』にも  しんちょうね。\n自分のカラに\nとじこもらないでネ。",
+  "en": "You're careful about everything, and cautious in love too. Just don't go hiding away in your shell, okay?"
+ },
+ {
+  "id": 662,
+  "context": "Nana: zodiac reading for Gemini",
+  "jp": "『れいせい』なタイプ。こいの『かけひき』が  とてもじょうずね。あいてをじっくり\n カンサツしてから\n おつきあいします。",
+  "en": "You're the cool-headed type, and really good at the give and take of love. You size someone up before you go out with them."
+ },
+ {
+  "id": 663,
+  "context": "Nana: zodiac reading for Cancer",
+  "jp": "あいてのコトを\nかんがえてソフトに、おつきあいするタイプ。だれにでも\n  やさしい人だと\n ごかいされるカモ。",
+  "en": "You think of the other person and take things gently. People might get the wrong idea, though, and think you're that nice to everyone."
+ },
+ {
+  "id": 664,
+  "context": "Nana: zodiac reading for Leo",
+  "jp": "『じょうねつてき』なあなたは、すきな人にまっすぐ\n ぶつかっていきます。りそうばかり\nおいかけないようにね。",
+  "en": "You're passionate, and you go straight for the one you like. Just don't spend all your time chasing an ideal, okay?"
+ },
+ {
+  "id": 665,
+  "context": "Nana: zodiac reading for Virgo",
+  "jp": "とても『せいじつ』でセンサイで\n『まじめ』な人ですね。あなたには\nおなじ『おとめざ』の人がピッタリかも。",
+  "en": "You're so sincere, sensitive and earnest. You know, a fellow Virgo might just be the perfect match for you!"
+ },
+ {
+  "id": 666,
+  "context": "Nana: zodiac reading for Libra",
+  "jp": "スマートなあなたは\n『こい』にもクール。でも心は『じょうねつ』   が、いっぱい!『こい』おおき人も\n     いますよ。",
+  "en": "You're stylish, and cool about love too. But inside, your heart's full of passion! Some Libras fall in love a lot, you know."
+ },
+ {
+  "id": 667,
+  "context": "Nana: zodiac reading for Scorpio",
+  "jp": "自分のきめた人に、\nぜんりょくで\n  ぶつかる人です。ひとりの人との\n おつきあいを\nたいせつにしますね。",
+  "en": "Once you've set your heart on someone, you go all in for them. You really treasure being with just that one person."
+ },
+ {
+  "id": 668,
+  "context": "Nana: zodiac reading for Sagittarius",
+  "jp": "とても人づきあいの\nじょうずな人です。\n『にんき』もあって\n  モテモテかな?\nあまりちょうしに\n のらないことよ。",
+  "en": "You're great with people. Popular too; I bet you've got admirers lining up! Just don't let it go to your head."
+ },
+ {
+  "id": 669,
+  "context": "Nana: zodiac reading for Capricorn",
+  "jp": "あなたは、すこし\n おとなしいタイプ?すきな人のまえでは、しゃべれないことも。でもそんなあなたは\nチャーミングですよ。",
+  "en": "You're a bit on the quiet side, aren't you? Sometimes the words won't come around the one you like. But that's charming, you know!"
+ },
+ {
+  "id": 670,
+  "context": "Nana: zodiac reading for Aquarius",
+  "jp": "あなたは、とても\n 『さわやか』さん。にんきうんもあります。ちせいとゥィットで、『りそう』のあいてをみつけられるでしょう。",
+  "en": "You've got a fresh, breezy charm, and you're popular too. With your brains and wit, you'll find your ideal match."
+ },
+ {
+  "id": 671,
+  "context": "Nana: zodiac reading for Pisces",
+  "jp": "あなたはなかなかの\n オシャレじょうず。『ちょっかんりょく』も、すぐれています。すきになった人には\nトコトンつくすタイプ。",
+  "en": "You've got real style, and sharp intuition too. Once you fall for someone, you're the type who'll do anything for them."
+ },
+ {
+  "id": 672,
+  "context": "Regina: zodiac reading for Aries",
+  "jp": "『せいじつ』な\nあなたはイヤなコトもことわれないことが?でもそんなあなたは\nとても『たのもしい』 人にみえるわよ。",
+  "en": "You are sincere, and perhaps you find it hard to refuse even the tasks you dislike. But it makes you look very dependable."
+ },
+ {
+  "id": 673,
+  "context": "Regina: zodiac reading for Taurus",
+  "jp": "あなたはとても\n おくゆかしい人ね。だまっていても\n『そんざいかん』が\nあるわ、あせらないでじっくりいきましょう。",
+  "en": "You are a modest, refined person. Even when you say nothing, your presence is felt. Do not rush; take things at a steady pace."
+ },
+ {
+  "id": 674,
+  "context": "Regina: zodiac reading for Gemini",
+  "jp": "あなたはトテモ\n『ようりょう』がよくて、あたまの『かいてん』がはやいから、\nなにごともテキパキと    こなせるわ。",
+  "en": "You are clever and quick-witted, and you know how to get to the point. You can handle any task briskly and well."
+ },
+ {
+  "id": 675,
+  "context": "Regina: zodiac reading for Cancer",
+  "jp": "まず『あいて』の\nきもちをかんがえる\nあなたには、\n 友人がいっぱいね。はなしをしやすいフン イキのせいかしら?",
+  "en": "You put other people's feelings first, and so you have many friends. Perhaps it is because you are so easy to talk to."
+ },
+ {
+  "id": 676,
+  "context": "Regina: zodiac reading for Leo",
+  "jp": "ふつうにしていても、『めだつ』そんざいね。それだけみりょくてき    な人なのよ。わるいことも\n   めだつけれど?",
+  "en": "Even when you do nothing special, you stand out. That is a measure of your charm. Though your slip-ups stand out as well, do they not?"
+ },
+ {
+  "id": 677,
+  "context": "Regina: zodiac reading for Virgo",
+  "jp": "とてもデリケートな\n しんけいをしているあなたは人のきもちをたいせつにする人ね。まわりの人から\nたよりにされるタイプ。",
+  "en": "You are a sensitive soul who takes great care with other people's feelings. Those around you have learned to rely on you."
+ },
+ {
+  "id": 678,
+  "context": "Regina: zodiac reading for Libra",
+  "jp": "あなたは、せいかつをエンジョイするのが、  とてもじょうず。どんなことでも、\nたのしんでしまう\n  『てんさい』ね。",
+  "en": "You are very good at enjoying life. Whatever comes your way, you find a way to enjoy it. A genius at it, really."
+ },
+ {
+  "id": 679,
+  "context": "Regina: zodiac reading for Scorpio",
+  "jp": "あなたはとても\n『しゅうちゅうりょく』があって、『こうどうりょく』もある\n『たより』になる人ね。ちょっとガンコだけど?",
+  "en": "You have great powers of concentration, and the drive to act on them. A truly reliable person. A little stubborn, perhaps?"
+ },
+ {
+  "id": 680,
+  "context": "Regina: zodiac reading for Sagittarius",
+  "jp": "とても『人なつっこい』あなたは、えがおが\n チャームポイント!ときどき『かるい人』なんて、ゴカイされることがあるかもね。",
+  "en": "You are warm and friendly, and your smile is your best feature. Now and then people may mistake that for being flighty."
+ },
+ {
+  "id": 681,
+  "context": "Regina: zodiac reading for Capricorn",
+  "jp": "じょうひんで\n  でしゃばらず\nひかえめだけれど、\nキラっとひかる人がらで、まわりの人を\n ひきつける人ですね。",
+  "en": "You are refined and modest, never one to push yourself forward. Yet your character shines, and it draws people to you."
+ },
+ {
+  "id": 682,
+  "context": "Regina: zodiac reading for Aquarius",
+  "jp": "あなたは『おしゃべり』じょうずで、『りゅうこう』に、びんかんな人です。まわりの人をたのしませて、\n あきさせません。",
+  "en": "You are a gifted talker with a keen eye for the latest trends. You keep the people around you entertained and never bored."
+ },
+ {
+  "id": 683,
+  "context": "Regina: zodiac reading for Pisces",
+  "jp": "アーティストのタイプ。ありふれたものを\n   くみあわせて、『あたらしい』ものをつくる『さいのう』が  ある人ですよ。",
+  "en": "You are the artistic type. You have a talent for taking ordinary things, combining them, and making something new."
+ },
+ {
+  "id": 684,
+  "context": "Rudo: about the sign Aries",
+  "jp": "このせいざは\nちきゅうのすべての\nせいぶつの\n  『いのち』を\nしょうちょうしているといわれておるのジャ。",
+  "en": "Aries. This sign is said to stand for the life force of every living creature on the earth, young one."
+ },
+ {
+  "id": 685,
+  "context": "Rudo: about the sign Taurus",
+  "jp": "このせいざは\n のうさくぶつの\nしゅうかくを\n いみしておってな、『ゆたかさ』を\nあんじするものじゃよ。",
+  "en": "Taurus. This sign stands for the harvest, the gathering in of the crops. It is a sign of plenty, mind you."
+ },
+ {
+  "id": 686,
+  "context": "Rudo: about the sign Gemini",
+  "jp": "このせいざは\n『ふたご』、つまり\n『ちえ』と『ことば』のふたつをイミするものでな、かたほうでもかけてはならぬのじゃ。",
+  "en": "Gemini, the twins. The pair stands for wisdom and for words, and you cannot do without either one, I reckon."
+ },
+ {
+  "id": 687,
+  "context": "Rudo: about the sign Cancer",
+  "jp": "このせいざは\nははおやを\n   いみするものとされているのじゃよ。ところでかにのたまごをみたことがあるかな?",
+  "en": "Cancer. This sign is held to stand for the mother. Tell me, young one, have you ever seen a crab carrying its eggs?"
+ },
+ {
+  "id": 688,
+  "context": "Rudo: about the sign Leo",
+  "jp": "このせいざは\nよのなかの『ちつじょ』をたばねるもの、\nつまり『けんりょく』をイミしていると\n  いわれておるゾ。",
+  "en": "Leo. This sign is said to stand for that which holds the order of the world together: power, in a word. Authority."
+ },
+ {
+  "id": 689,
+  "context": "Rudo: about the sign Virgo",
+  "jp": "このせいざは\n  けがれをしらぬ\n『おとめ』、つまり\n『じゅんけつ』と\n  『ちつじょ』を\nいみしておるのジャ。",
+  "en": "Virgo. The maiden who knows no stain. This sign stands for purity, and for order, young one."
+ },
+ {
+  "id": 690,
+  "context": "Rudo: about the sign Libra",
+  "jp": "このせいざは\nすべてのものを\n  はかるどうぐの\nしょうちょうであり、『こうへい』を\nいみしておるのジャ。",
+  "en": "Libra. This sign is the scales, the tool that weighs all things. It stands for fairness, I reckon."
+ },
+ {
+  "id": 691,
+  "context": "Rudo: about the sign Scorpio",
+  "jp": "このせいざは\n  さそりのどく\nつまり『し』をいみしており、たましいの\nしょうちょうであるといわれておるのジャ。",
+  "en": "Scorpio. This sign means the scorpion's sting, which is to say death. It is also said to be the symbol of the soul."
+ },
+ {
+  "id": 692,
+  "context": "Rudo: about the sign Sagittarius",
+  "jp": "せいざのシンボルは\nじょうはんしんは人、かはんしんがうまの\n『せいぶつ』、つまりにんげんのバランスをイミしておるのじゃ。",
+  "en": "Sagittarius. Its symbol is a creature, man above and horse below. It stands for the balance within a human being, mind you."
+ },
+ {
+  "id": 693,
+  "context": "Rudo: about the sign Capricorn",
+  "jp": "このせいざは\n人の『じゅみょう』や『けんこう』を\nしょうちょうする、\nともいわれて\n   おるのジャよ。",
+  "en": "Capricorn. This sign, so it is said, stands for the span of a person's life, and for their health as well."
+ },
+ {
+  "id": 694,
+  "context": "Rudo: about the sign Aquarius",
+  "jp": "みずがめから\nながれでるみずは、\nかれることがない。\nつまりつかっても\nなくならない『ちえ』のしょうちょうジャ。",
+  "en": "Aquarius. The water that pours from the jar never runs dry. It is the symbol of wisdom, which is never used up, I reckon."
+ },
+ {
+  "id": 695,
+  "context": "Rudo: about the sign Pisces",
+  "jp": "このせいざは\n 2ひきのさかなが\n  シンボルじゃ。\n心とからだのバランスをしょうちょうしているといわれておるゾ。",
+  "en": "Pisces. Two fish are the symbol of this sign. It is said to stand for the balance between the heart and the body."
+ }
+]

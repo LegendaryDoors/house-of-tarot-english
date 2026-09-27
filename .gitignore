@@ -1,0 +1,12 @@
+# The game is never committed. Put the 128 KB Japanese ROM here as 'House of Tarot (J).gg' to build.
+*.gg
+*.bin
+*.sms
+
+# Generated at build time (patch files are published as GitHub release assets)
+out/
+dist/
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
